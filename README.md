@@ -73,6 +73,8 @@ l) Set Current State = New State and repeat all above steps again to see trainin
 
 10) This is Video for Random 20000 timesteps to fill replay buffer
 
+https://www.youtube.com/watch?v=MLE6H2TOOBg&feature=youtu.be
+
 11) This is Video while Training and Inference in middle of training.
 (Note- Still working on this to make it better. Remember goal to roam our car on the roads of Citymap, as the baby elphant roaming inside Jungle)
 
