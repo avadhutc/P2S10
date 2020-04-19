@@ -11,6 +11,7 @@ Action dimension is 3, consists of Vector ( turn left, go straight, turn right)
 
 Please refer following video to see output of Deep Q learning. Only difference- We are moving Baby Elephant inside the Jungle Map. :)
 (Rest of things are same as explained above)
+
 https://www.youtube.com/watch?v=2lWoQwJ47mc&feature=youtu.be
 
 Alright! Lets move back to our Self Driving Car using TD3.
@@ -53,11 +54,9 @@ d. Car should not touch four sides of Map ( Considered as Crash), and negatively
 e. Car should spend less time on sand and more time on road to avoid episode over.
 
 7) We observe Current State and Next State of the Network. 
-
 ![all4](images/states_info.png)
 
 8) We realized that We are missing border pixels to explore, So decided to pad original Sand image and make respective displacement changes in the position of car.
-
 ![all5](images/sand_padded.png)
 
 9) We first fill our replay buffer for 20000 random states, next states, action, rewards, done and then we will train and infer after couple of timetseps. Total Timesteps = 500000
