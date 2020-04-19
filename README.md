@@ -28,6 +28,8 @@ Following Steps are followed to implements this:
 
 As our goal is to feed input state as Image, not Sensor and Orientation information. So I will try to explain rest of steps with input Image state only. Before Proceeding ahead lets illustrate couple of basics.
 
+![all](images/all.PNG)
 
+We will train our Car to follow roads given in Citymap. We will be feeding information to network from Sand Image. Idea to follow Black pixels road, and avoid Sand or white pixels (Non road area)
 
-
+3) We need to draw a moving car on the Sand, because our network should learn a Player(Car) and Environment (Roads and Sand).
