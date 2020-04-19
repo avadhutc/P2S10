@@ -44,3 +44,39 @@ Check our Car (What we draw on Sand) marked in red circle. Note- Road- Black Col
 5) In above image We may not cover a Car and Roads/ Sand in 80x80x1 area, So  We need crop more area of 160x160x1, but to avoid building a network with huge parameters, better We will use Scaled version of that. 
 
 ![all3](images/scaled.PNG)
+
+6) Lets now focus on Rewards, Done(Episode Over) and Living Penalty - We are getting information from our Kivy Environment about Position of our Car, Velocity and Orientation. We can use this to build Rewards, Done(Episode Over) and Living Penalty.
+a. Car should be on the Road to get good reward, Otherwise negative reward for being on Sand
+b. Car should try to visit two destinations or goals alternatively by taking roads, not sand.
+c. As Car reaches to any of a goal, it will achieve high reward
+d. Car should not touch four sides of Map ( Considered as Crash), and negatively rewarded and episode over
+e. Car should spend less time on sand and more time on road to avoid episode over.
+
+7) We observe Current State and Next State of the Network. 
+
+8) We realized that We are missing border pixels to explore, So decided to pad original Sand image and make respective displacement changes in the position of car.
+
+9) We first fill our replay buffer for 20000 random states, next states, action, rewards, done and then we will train and infer after couple of timetseps. Total Timesteps = 500000
+Our algorithm will loop over following steps.
+a) Intialize car at random position
+b) Calculate goal distance to cover, decide velocity
+c) Based on above information Orientation of car is calculated 
+d) This information if feed to car to move and return State
+e) We feed State information and get action from TD3
+f) We add some exploration noise and clippping
+g) Based on action we calculate Next state
+h) We calcuate distance to cover to reach goal based on new information
+i) Based on Car current position on Sand or Road, Negative or Positive Reward offered
+j) Now Based on Car is close to target, close to Borders or walls, how long is on sand - Episode is over or continue along with accumulation of Positive or Negative reward
+k) We adding this new observations to replay buffer
+l) Set Current State = New State and repeat all above steps again to see training and inference
+
+10) This is Video for Random 20000 timesteps to fill replay buffer
+
+11) This is Video while Training and Inference in middle of training.
+(Note- Still working on this to make it better. Remember goal to roam our car on the roads of Citymap, as the baby elphant roaming inside Jungle)
+
+
+
+
+
