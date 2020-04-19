@@ -33,3 +33,10 @@ As our goal is to feed input state as Image, not Sensor and Orientation informat
 We will train our Car to follow roads given in Citymap. We will be feeding information to network from Sand Image. Idea to follow Black pixels road, and avoid Sand or white pixels (Non road area)
 
 3) We need to draw a moving car on the Sand, because our network should learn a Player(Car) and Environment (Roads and Sand).
+Check our Car (What we draw on Sand) marked in red circle. 
+
+![all1](images/sand_car.png)
+
+4) Now We need to think, How to feed a view around our moving car (offcourse our Car should a part of a view) to Network to learn player and its environment. We can achieve this by cropping area of 80x80 pixels around the car from above image. So this is our Current State or Observation of 80x80x1.
+
+5) In above image We may not cover a Car and Roads/ Sand in 80x80x1 area, So  We need crop more area of 160x160x1, but to avoid building a network with huge parameters, better We will use Scaled version of that. 
