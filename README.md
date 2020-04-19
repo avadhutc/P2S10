@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=MLE6H2TOOBg&feature=youtu.be
 11) This is Video while Training and Inference in middle of training.
 (Note- Still working on this to make it better. Remember goal to roam our car on the roads of Citymap, as the baby elphant roaming inside Jungle)
 
-
+https://www.youtube.com/watch?v=MQvZ-l8oMs0&feature=youtu.be
 
 
 
