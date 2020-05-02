@@ -1,0 +1,1530 @@
+Time-Steps: 41	 Episode-Num: 1	 Episode-Reward: -18.5
+Episode-Steps: 41	 Traveled-Distance: 48.45	 Remaining-Distance: 719.04
+Sand-Penalty: 2.48	 Living-Penalty: -20.98
+Time-Steps: 78	 Episode-Num: 2	 Episode-Reward: -18.9
+Episode-Steps: 37	 Traveled-Distance: 35.73	 Remaining-Distance: 731.95
+Sand-Penalty: 3.35	 Living-Penalty: -22.25
+Time-Steps: 110	 Episode-Num: 3	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 28.85	 Remaining-Distance: 723.84
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 134	 Episode-Num: 4	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 18.39	 Remaining-Distance: 734.66
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 180	 Episode-Num: 5	 Episode-Reward: -17.7
+Episode-Steps: 46	 Traveled-Distance: 45.29	 Remaining-Distance: 706.95
+Sand-Penalty: 1.74	 Living-Penalty: -19.44
+Time-Steps: 213	 Episode-Num: 6	 Episode-Reward: -20.2
+Episode-Steps: 33	 Traveled-Distance: 23.9	 Remaining-Distance: 747.12
+Sand-Penalty: 8.6	 Living-Penalty: -28.8
+Time-Steps: 258	 Episode-Num: 7	 Episode-Reward: -28.799999999999997
+Episode-Steps: 45	 Traveled-Distance: 24.45	 Remaining-Distance: 742.79
+Sand-Penalty: 51.84	 Living-Penalty: -80.64
+Time-Steps: 287	 Episode-Num: 8	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 20.83	 Remaining-Distance: 758.24
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 360	 Episode-Num: 9	 Episode-Reward: -28.0
+Episode-Steps: 73	 Traveled-Distance: 47.46	 Remaining-Distance: 718.83
+Sand-Penalty: 3.45	 Living-Penalty: -31.45
+Time-Steps: 396	 Episode-Num: 10	 Episode-Reward: -19.0
+Episode-Steps: 36	 Traveled-Distance: 38.37	 Remaining-Distance: 728.51
+Sand-Penalty: 3.65	 Living-Penalty: -22.65
+Time-Steps: 424	 Episode-Num: 11	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 24.91	 Remaining-Distance: 727.75
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 461	 Episode-Num: 12	 Episode-Reward: -18.6
+Episode-Steps: 37	 Traveled-Distance: 43.98	 Remaining-Distance: 722.36
+Sand-Penalty: 3.02	 Living-Penalty: -21.62
+Time-Steps: 490	 Episode-Num: 13	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 26.92	 Remaining-Distance: 736.76
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 530	 Episode-Num: 14	 Episode-Reward: -18.6
+Episode-Steps: 40	 Traveled-Distance: 32.69	 Remaining-Distance: 719.46
+Sand-Penalty: 2.66	 Living-Penalty: -21.26
+Time-Steps: 561	 Episode-Num: 15	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 32.46	 Remaining-Distance: 729.1
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 585	 Episode-Num: 16	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 18.3	 Remaining-Distance: 735.87
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 663	 Episode-Num: 17	 Episode-Reward: -25.1
+Episode-Steps: 78	 Traveled-Distance: 87.03	 Remaining-Distance: 673.55
+Sand-Penalty: 2.0	 Living-Penalty: -27.1
+Time-Steps: 688	 Episode-Num: 18	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 22.19	 Remaining-Distance: 730.09
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 724	 Episode-Num: 19	 Episode-Reward: -21.1
+Episode-Steps: 36	 Traveled-Distance: 25.97	 Remaining-Distance: 745.01
+Sand-Penalty: 12.41	 Living-Penalty: -33.51
+Time-Steps: 785	 Episode-Num: 20	 Episode-Reward: -34.2
+Episode-Steps: 61	 Traveled-Distance: 43.15	 Remaining-Distance: 709.11
+Sand-Penalty: 8.61	 Living-Penalty: -42.81
+Time-Steps: 817	 Episode-Num: 21	 Episode-Reward: -20.6
+Episode-Steps: 32	 Traveled-Distance: 29.02	 Remaining-Distance: 738.58
+Sand-Penalty: 14.71	 Living-Penalty: -35.31
+Time-Steps: 883	 Episode-Num: 22	 Episode-Reward: -17.2
+Episode-Steps: 66	 Traveled-Distance: 77.3	 Remaining-Distance: 688.14
+Sand-Penalty: 1.03	 Living-Penalty: -18.23
+Time-Steps: 914	 Episode-Num: 23	 Episode-Reward: -20.7
+Episode-Steps: 31	 Traveled-Distance: 20.1	 Remaining-Distance: 751.0
+Sand-Penalty: 21.79	 Living-Penalty: -42.49
+Time-Steps: 938	 Episode-Num: 24	 Episode-Reward: -19.6
+Episode-Steps: 24	 Traveled-Distance: 19.79	 Remaining-Distance: 734.34
+Sand-Penalty: 24.5	 Living-Penalty: -44.1
+Time-Steps: 980	 Episode-Num: 25	 Episode-Reward: -18.7
+Episode-Steps: 42	 Traveled-Distance: 44.95	 Remaining-Distance: 721.82
+Sand-Penalty: 2.53	 Living-Penalty: -21.23
+Time-Steps: 1008	 Episode-Num: 26	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 22.93	 Remaining-Distance: 754.27
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 1034	 Episode-Num: 27	 Episode-Reward: -19.4
+Episode-Steps: 26	 Traveled-Distance: 24.59	 Remaining-Distance: 727.72
+Sand-Penalty: 11.41	 Living-Penalty: -30.81
+Time-Steps: 1070	 Episode-Num: 28	 Episode-Reward: -20.5
+Episode-Steps: 36	 Traveled-Distance: 26.97	 Remaining-Distance: 746.23
+Sand-Penalty: 7.59	 Living-Penalty: -28.09
+Time-Steps: 1116	 Episode-Num: 29	 Episode-Reward: -18.6
+Episode-Steps: 46	 Traveled-Distance: 48.65	 Remaining-Distance: 719.31
+Sand-Penalty: 2.14	 Living-Penalty: -20.74
+Time-Steps: 1151	 Episode-Num: 30	 Episode-Reward: -19.1
+Episode-Steps: 35	 Traveled-Distance: 30.59	 Remaining-Distance: 736.83
+Sand-Penalty: 4.02	 Living-Penalty: -23.12
+Time-Steps: 1179	 Episode-Num: 31	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 21.7	 Remaining-Distance: 730.47
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 1232	 Episode-Num: 32	 Episode-Reward: -33.4
+Episode-Steps: 53	 Traveled-Distance: 12.96	 Remaining-Distance: 746.19
+Sand-Penalty: 16.45	 Living-Penalty: -49.85
+Time-Steps: 1259	 Episode-Num: 33	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 23.51	 Remaining-Distance: 729.24
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 1284	 Episode-Num: 34	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 19.6	 Remaining-Distance: 733.32
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 1319	 Episode-Num: 35	 Episode-Reward: -20.9
+Episode-Steps: 35	 Traveled-Distance: 27.17	 Remaining-Distance: 737.27
+Sand-Penalty: 11.94	 Living-Penalty: -32.84
+Time-Steps: 1353	 Episode-Num: 36	 Episode-Reward: -18.9
+Episode-Steps: 34	 Traveled-Distance: 35.02	 Remaining-Distance: 717.29
+Sand-Penalty: 3.94	 Living-Penalty: -22.84
+Time-Steps: 1395	 Episode-Num: 37	 Episode-Reward: -28.0
+Episode-Steps: 42	 Traveled-Distance: 20.78	 Remaining-Distance: 764.43
+Sand-Penalty: -364.0	 Living-Penalty: 336.0
+Time-Steps: 1426	 Episode-Num: 38	 Episode-Reward: -18.9
+Episode-Steps: 31	 Traveled-Distance: 32.9	 Remaining-Distance: 719.22
+Sand-Penalty: 4.78	 Living-Penalty: -23.68
+Time-Steps: 1456	 Episode-Num: 39	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 33.05	 Remaining-Distance: 719.06
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 1481	 Episode-Num: 40	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 10.18	 Remaining-Distance: 744.24
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 1537	 Episode-Num: 41	 Episode-Reward: -16.7
+Episode-Steps: 56	 Traveled-Distance: 69.59	 Remaining-Distance: 694.35
+Sand-Penalty: 1.14	 Living-Penalty: -17.84
+Time-Steps: 1584	 Episode-Num: 42	 Episode-Reward: -19.7
+Episode-Steps: 47	 Traveled-Distance: 41.71	 Remaining-Distance: 724.07
+Sand-Penalty: 2.76	 Living-Penalty: -22.46
+Time-Steps: 1639	 Episode-Num: 43	 Episode-Reward: -26.400000000000006
+Episode-Steps: 55	 Traveled-Distance: 17.59	 Remaining-Distance: 737.58
+Sand-Penalty: 5.49	 Living-Penalty: -31.89
+Time-Steps: 1680	 Episode-Num: 44	 Episode-Reward: -19.7
+Episode-Steps: 41	 Traveled-Distance: 28.77	 Remaining-Distance: 736.2
+Sand-Penalty: 3.61	 Living-Penalty: -23.31
+Time-Steps: 1705	 Episode-Num: 45	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 15.07	 Remaining-Distance: 740.84
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 1739	 Episode-Num: 46	 Episode-Reward: -18.9
+Episode-Steps: 34	 Traveled-Distance: 29.31	 Remaining-Distance: 722.87
+Sand-Penalty: 3.94	 Living-Penalty: -22.84
+Time-Steps: 1763	 Episode-Num: 47	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 17.75	 Remaining-Distance: 734.37
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 1789	 Episode-Num: 48	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 14.29	 Remaining-Distance: 738.42
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 1819	 Episode-Num: 49	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 21.03	 Remaining-Distance: 747.26
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 1844	 Episode-Num: 50	 Episode-Reward: -19.5
+Episode-Steps: 25	 Traveled-Distance: 19.68	 Remaining-Distance: 734.87
+Sand-Penalty: 15.6	 Living-Penalty: -35.1
+Time-Steps: 1902	 Episode-Num: 51	 Episode-Reward: -17.099999999999998
+Episode-Steps: 58	 Traveled-Distance: 69.49	 Remaining-Distance: 691.46
+Sand-Penalty: 1.17	 Living-Penalty: -18.27
+Time-Steps: 1926	 Episode-Num: 52	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 17.6	 Remaining-Distance: 737.37
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 1999	 Episode-Num: 53	 Episode-Reward: -37.39999999999996
+Episode-Steps: 73	 Traveled-Distance: 52.77	 Remaining-Distance: 710.01
+Sand-Penalty: 7.05	 Living-Penalty: -44.45
+Time-Steps: 2023	 Episode-Num: 54	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 19.43	 Remaining-Distance: 732.84
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 2048	 Episode-Num: 55	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 11.6	 Remaining-Distance: 741.39
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 2101	 Episode-Num: 56	 Episode-Reward: -25.900000000000006
+Episode-Steps: 53	 Traveled-Distance: 22.59	 Remaining-Distance: 729.56
+Sand-Penalty: 4.45	 Living-Penalty: -30.35
+Time-Steps: 2132	 Episode-Num: 57	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 22.21	 Remaining-Distance: 730.94
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 2170	 Episode-Num: 58	 Episode-Reward: -19.1
+Episode-Steps: 38	 Traveled-Distance: 38.16	 Remaining-Distance: 729.52
+Sand-Penalty: 3.41	 Living-Penalty: -22.51
+Time-Steps: 2281	 Episode-Num: 59	 Episode-Reward: -67.19999999999999
+Episode-Steps: 111	 Traveled-Distance: 16.52	 Remaining-Distance: 764.68
+Sand-Penalty: 61.36	 Living-Penalty: -128.56
+Time-Steps: 2317	 Episode-Num: 60	 Episode-Reward: -18.7
+Episode-Steps: 36	 Traveled-Distance: 35.92	 Remaining-Distance: 731.68
+Sand-Penalty: 3.28	 Living-Penalty: -21.98
+Time-Steps: 2347	 Episode-Num: 61	 Episode-Reward: -19.9
+Episode-Steps: 30	 Traveled-Distance: 20.84	 Remaining-Distance: 750.8
+Sand-Penalty: 9.95	 Living-Penalty: -29.85
+Time-Steps: 2447	 Episode-Num: 62	 Episode-Reward: -54.90000000000001
+Episode-Steps: 100	 Traveled-Distance: 27.8	 Remaining-Distance: 725.28
+Sand-Penalty: 19.4	 Living-Penalty: -74.3
+Time-Steps: 2494	 Episode-Num: 63	 Episode-Reward: -19.4
+Episode-Steps: 47	 Traveled-Distance: 40.11	 Remaining-Distance: 726.8
+Sand-Penalty: 2.54	 Living-Penalty: -21.94
+Time-Steps: 2525	 Episode-Num: 64	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 29.69	 Remaining-Distance: 739.16
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 2558	 Episode-Num: 65	 Episode-Reward: -19.6
+Episode-Steps: 33	 Traveled-Distance: 30.38	 Remaining-Distance: 737.58
+Sand-Penalty: 5.85	 Living-Penalty: -25.45
+Time-Steps: 2593	 Episode-Num: 66	 Episode-Reward: -19.4
+Episode-Steps: 35	 Traveled-Distance: 35.55	 Remaining-Distance: 730.62
+Sand-Penalty: 4.56	 Living-Penalty: -23.96
+Time-Steps: 2630	 Episode-Num: 67	 Episode-Reward: -18.9
+Episode-Steps: 37	 Traveled-Distance: 38.41	 Remaining-Distance: 731.63
+Sand-Penalty: 3.35	 Living-Penalty: -22.25
+Time-Steps: 2665	 Episode-Num: 68	 Episode-Reward: -20.0
+Episode-Steps: 35	 Traveled-Distance: 24.28	 Remaining-Distance: 745.49
+Sand-Penalty: 6.15	 Living-Penalty: -26.15
+Time-Steps: 2695	 Episode-Num: 69	 Episode-Reward: -20.5
+Episode-Steps: 30	 Traveled-Distance: 27.28	 Remaining-Distance: 747.15
+Sand-Penalty: 20.5	 Living-Penalty: -41.0
+Time-Steps: 2725	 Episode-Num: 70	 Episode-Reward: -19.9
+Episode-Steps: 30	 Traveled-Distance: 28.16	 Remaining-Distance: 741.67
+Sand-Penalty: 9.95	 Living-Penalty: -29.85
+Time-Steps: 2767	 Episode-Num: 71	 Episode-Reward: -18.7
+Episode-Steps: 42	 Traveled-Distance: 40.17	 Remaining-Distance: 726.82
+Sand-Penalty: 2.53	 Living-Penalty: -21.23
+Time-Steps: 2795	 Episode-Num: 72	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 25.34	 Remaining-Distance: 727.07
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 2823	 Episode-Num: 73	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 23.37	 Remaining-Distance: 729.06
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 2848	 Episode-Num: 74	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 21.74	 Remaining-Distance: 732.22
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 2873	 Episode-Num: 75	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 19.48	 Remaining-Distance: 734.21
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 2916	 Episode-Num: 76	 Episode-Reward: -20.1
+Episode-Steps: 43	 Traveled-Distance: 20.75	 Remaining-Distance: 733.07
+Sand-Penalty: 3.76	 Living-Penalty: -23.86
+Time-Steps: 2945	 Episode-Num: 77	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 30.83	 Remaining-Distance: 721.28
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 2974	 Episode-Num: 78	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 25.74	 Remaining-Distance: 748.47
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 3002	 Episode-Num: 79	 Episode-Reward: -20.1
+Episode-Steps: 28	 Traveled-Distance: 25.2	 Remaining-Distance: 750.46
+Sand-Penalty: 18.27	 Living-Penalty: -38.37
+Time-Steps: 3071	 Episode-Num: 80	 Episode-Reward: -15.100000000000001
+Episode-Steps: 69	 Traveled-Distance: 92.46	 Remaining-Distance: 670.2
+Sand-Penalty: 0.72	 Living-Penalty: -15.82
+Time-Steps: 3107	 Episode-Num: 81	 Episode-Reward: -20.8
+Episode-Steps: 36	 Traveled-Distance: 24.83	 Remaining-Distance: 746.51
+Sand-Penalty: 9.45	 Living-Penalty: -30.25
+Time-Steps: 3131	 Episode-Num: 82	 Episode-Reward: -19.6
+Episode-Steps: 24	 Traveled-Distance: 21.57	 Remaining-Distance: 730.75
+Sand-Penalty: 24.5	 Living-Penalty: -44.1
+Time-Steps: 3156	 Episode-Num: 83	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 22.12	 Remaining-Distance: 730.2
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 3181	 Episode-Num: 84	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 22.51	 Remaining-Distance: 730.96
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 3205	 Episode-Num: 85	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 18.19	 Remaining-Distance: 737.05
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 3254	 Episode-Num: 86	 Episode-Reward: -18.0
+Episode-Steps: 49	 Traveled-Distance: 50.87	 Remaining-Distance: 701.25
+Sand-Penalty: 1.71	 Living-Penalty: -19.71
+Time-Steps: 3282	 Episode-Num: 87	 Episode-Reward: -19.8
+Episode-Steps: 28	 Traveled-Distance: 13.32	 Remaining-Distance: 740.68
+Sand-Penalty: 12.38	 Living-Penalty: -32.17
+Time-Steps: 3346	 Episode-Num: 88	 Episode-Reward: -37.09999999999999
+Episode-Steps: 64	 Traveled-Distance: 46.01	 Remaining-Distance: 715.1
+Sand-Penalty: 8.72	 Living-Penalty: -45.82
+Time-Steps: 3371	 Episode-Num: 89	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 11.18	 Remaining-Distance: 745.22
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 3407	 Episode-Num: 90	 Episode-Reward: -21.1
+Episode-Steps: 36	 Traveled-Distance: 21.5	 Remaining-Distance: 750.8
+Sand-Penalty: 12.41	 Living-Penalty: -33.51
+Time-Steps: 3448	 Episode-Num: 91	 Episode-Reward: -18.2
+Episode-Steps: 41	 Traveled-Distance: 29.14	 Remaining-Distance: 723.08
+Sand-Penalty: 2.29	 Living-Penalty: -20.49
+Time-Steps: 3487	 Episode-Num: 92	 Episode-Reward: -18.4
+Episode-Steps: 39	 Traveled-Distance: 44.33	 Remaining-Distance: 707.85
+Sand-Penalty: 2.61	 Living-Penalty: -21.01
+Time-Steps: 3517	 Episode-Num: 93	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 29.91	 Remaining-Distance: 722.25
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 3550	 Episode-Num: 94	 Episode-Reward: -19.6
+Episode-Steps: 33	 Traveled-Distance: 26.76	 Remaining-Distance: 739.47
+Sand-Penalty: 5.85	 Living-Penalty: -25.45
+Time-Steps: 3576	 Episode-Num: 95	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 14.6	 Remaining-Distance: 739.77
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 3600	 Episode-Num: 96	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 20.31	 Remaining-Distance: 732.92
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 3627	 Episode-Num: 97	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 15.1	 Remaining-Distance: 738.16
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 3662	 Episode-Num: 98	 Episode-Reward: -20.0
+Episode-Steps: 35	 Traveled-Distance: 34.6	 Remaining-Distance: 732.34
+Sand-Penalty: 6.15	 Living-Penalty: -26.15
+Time-Steps: 3692	 Episode-Num: 99	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 17.55	 Remaining-Distance: 734.86
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 3770	 Episode-Num: 100	 Episode-Reward: -15.700000000000003
+Episode-Steps: 78	 Traveled-Distance: 81.38	 Remaining-Distance: 671.58
+Sand-Penalty: 0.69	 Living-Penalty: -16.39
+Time-Steps: 3805	 Episode-Num: 101	 Episode-Reward: -20.0
+Episode-Steps: 35	 Traveled-Distance: 27.85	 Remaining-Distance: 743.13
+Sand-Penalty: 6.15	 Living-Penalty: -26.15
+Time-Steps: 3836	 Episode-Num: 102	 Episode-Reward: -21.9
+Episode-Steps: 31	 Traveled-Distance: 18.95	 Remaining-Distance: 755.35
+Sand-Penalty: -20.86	 Living-Penalty: -1.04
+Time-Steps: 3868	 Episode-Num: 103	 Episode-Reward: -20.3
+Episode-Steps: 32	 Traveled-Distance: 17.75	 Remaining-Distance: 747.52
+Sand-Penalty: 10.68	 Living-Penalty: -30.98
+Time-Steps: 3898	 Episode-Num: 104	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 28.14	 Remaining-Distance: 741.31
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 3937	 Episode-Num: 105	 Episode-Reward: -18.4
+Episode-Steps: 39	 Traveled-Distance: 40.26	 Remaining-Distance: 728.65
+Sand-Penalty: 2.61	 Living-Penalty: -21.01
+Time-Steps: 3966	 Episode-Num: 106	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 30.28	 Remaining-Distance: 740.67
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 4001	 Episode-Num: 107	 Episode-Reward: -19.4
+Episode-Steps: 35	 Traveled-Distance: 32.43	 Remaining-Distance: 735.49
+Sand-Penalty: 4.56	 Living-Penalty: -23.96
+Time-Steps: 4032	 Episode-Num: 108	 Episode-Reward: -20.1
+Episode-Steps: 31	 Traveled-Distance: 33.23	 Remaining-Distance: 735.3
+Sand-Penalty: 10.31	 Living-Penalty: -30.41
+Time-Steps: 4064	 Episode-Num: 109	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 24.96	 Remaining-Distance: 727.92
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 4090	 Episode-Num: 110	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 11.82	 Remaining-Distance: 740.57
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 4115	 Episode-Num: 111	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 21.88	 Remaining-Distance: 730.25
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 4140	 Episode-Num: 112	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 20.8	 Remaining-Distance: 731.33
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 4165	 Episode-Num: 113	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 21.49	 Remaining-Distance: 732.79
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 4209	 Episode-Num: 114	 Episode-Reward: -18.8
+Episode-Steps: 44	 Traveled-Distance: 43.73	 Remaining-Distance: 721.7
+Sand-Penalty: 2.41	 Living-Penalty: -21.21
+Time-Steps: 4244	 Episode-Num: 115	 Episode-Reward: -19.7
+Episode-Steps: 35	 Traveled-Distance: 30.46	 Remaining-Distance: 739.68
+Sand-Penalty: 5.25	 Living-Penalty: -24.95
+Time-Steps: 4275	 Episode-Num: 116	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 32.27	 Remaining-Distance: 720.13
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 4302	 Episode-Num: 117	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 23.35	 Remaining-Distance: 730.74
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 4327	 Episode-Num: 118	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 19.68	 Remaining-Distance: 733.09
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 4362	 Episode-Num: 119	 Episode-Reward: -19.4
+Episode-Steps: 35	 Traveled-Distance: 37.84	 Remaining-Distance: 723.75
+Sand-Penalty: 4.56	 Living-Penalty: -23.96
+Time-Steps: 4387	 Episode-Num: 120	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 13.73	 Remaining-Distance: 743.46
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 4427	 Episode-Num: 121	 Episode-Reward: -18.3
+Episode-Steps: 40	 Traveled-Distance: 33.91	 Remaining-Distance: 718.3
+Sand-Penalty: 2.44	 Living-Penalty: -20.74
+Time-Steps: 4454	 Episode-Num: 122	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 12.94	 Remaining-Distance: 740.0
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 4478	 Episode-Num: 123	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 18.41	 Remaining-Distance: 735.78
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 4639	 Episode-Num: 124	 Episode-Reward: -68.10000000000008
+Episode-Steps: 161	 Traveled-Distance: 119.65	 Remaining-Distance: 870.83
+Sand-Penalty: 122.11	 Living-Penalty: -190.21
+Time-Steps: 4671	 Episode-Num: 125	 Episode-Reward: -18.8
+Episode-Steps: 32	 Traveled-Distance: 21.53	 Remaining-Distance: 730.73
+Sand-Penalty: 4.27	 Living-Penalty: -23.07
+Time-Steps: 4739	 Episode-Num: 126	 Episode-Reward: -41.89999999999998
+Episode-Steps: 68	 Traveled-Distance: 18.04	 Remaining-Distance: 756.23
+Sand-Penalty: 796.1	 Living-Penalty: -838.0
+Time-Steps: 4769	 Episode-Num: 127	 Episode-Reward: -20.2
+Episode-Steps: 30	 Traveled-Distance: 30.2	 Remaining-Distance: 733.47
+Sand-Penalty: 13.47	 Living-Penalty: -33.67
+Time-Steps: 4798	 Episode-Num: 128	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 28.81	 Remaining-Distance: 741.96
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 4827	 Episode-Num: 129	 Episode-Reward: -19.7
+Episode-Steps: 29	 Traveled-Distance: 20.98	 Remaining-Distance: 745.17
+Sand-Penalty: 9.61	 Living-Penalty: -29.31
+Time-Steps: 4851	 Episode-Num: 130	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 14.07	 Remaining-Distance: 742.66
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 4881	 Episode-Num: 131	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 25.08	 Remaining-Distance: 727.1
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 4938	 Episode-Num: 132	 Episode-Reward: -36.999999999999986
+Episode-Steps: 57	 Traveled-Distance: 14.07	 Remaining-Distance: 751.68
+Sand-Penalty: 56.3	 Living-Penalty: -93.3
+Time-Steps: 4963	 Episode-Num: 133	 Episode-Reward: -19.5
+Episode-Steps: 25	 Traveled-Distance: 7.9	 Remaining-Distance: 746.59
+Sand-Penalty: 15.6	 Living-Penalty: -35.1
+Time-Steps: 4991	 Episode-Num: 134	 Episode-Reward: -20.4
+Episode-Steps: 28	 Traveled-Distance: 25.32	 Remaining-Distance: 743.53
+Sand-Penalty: 34.0	 Living-Penalty: -54.4
+Time-Steps: 5032	 Episode-Num: 135	 Episode-Reward: -18.2
+Episode-Steps: 41	 Traveled-Distance: 36.82	 Remaining-Distance: 715.3
+Sand-Penalty: 2.29	 Living-Penalty: -20.49
+Time-Steps: 5063	 Episode-Num: 136	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 32.46	 Remaining-Distance: 720.07
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 5103	 Episode-Num: 137	 Episode-Reward: -19.8
+Episode-Steps: 40	 Traveled-Distance: 25.89	 Remaining-Distance: 740.3
+Sand-Penalty: 3.96	 Living-Penalty: -23.76
+Time-Steps: 5159	 Episode-Num: 138	 Episode-Reward: -24.200000000000003
+Episode-Steps: 56	 Traveled-Distance: 31.42	 Remaining-Distance: 782.58
+Sand-Penalty: 11.0	 Living-Penalty: -35.2
+Time-Steps: 5232	 Episode-Num: 139	 Episode-Reward: -28.10000000000001
+Episode-Steps: 73	 Traveled-Distance: 59.21	 Remaining-Distance: 701.42
+Sand-Penalty: 3.04	 Living-Penalty: -31.14
+Time-Steps: 5258	 Episode-Num: 140	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 16.98	 Remaining-Distance: 737.31
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 5283	 Episode-Num: 141	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 19.85	 Remaining-Distance: 732.28
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 5315	 Episode-Num: 142	 Episode-Reward: -20.9
+Episode-Steps: 32	 Traveled-Distance: 21.15	 Remaining-Distance: 751.97
+Sand-Penalty: 23.22	 Living-Penalty: -44.12
+Time-Steps: 5363	 Episode-Num: 143	 Episode-Reward: -33.5
+Episode-Steps: 48	 Traveled-Distance: 22.76	 Remaining-Distance: 754.07
+Sand-Penalty: 18.37	 Living-Penalty: -51.87
+Time-Steps: 5388	 Episode-Num: 144	 Episode-Reward: -19.5
+Episode-Steps: 25	 Traveled-Distance: 19.89	 Remaining-Distance: 733.31
+Sand-Penalty: 15.6	 Living-Penalty: -35.1
+Time-Steps: 5417	 Episode-Num: 145	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 20.78	 Remaining-Distance: 759.99
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 5451	 Episode-Num: 146	 Episode-Reward: -18.6
+Episode-Steps: 34	 Traveled-Distance: 37.22	 Remaining-Distance: 724.15
+Sand-Penalty: 3.51	 Living-Penalty: -22.11
+Time-Steps: 5481	 Episode-Num: 147	 Episode-Reward: -20.8
+Episode-Steps: 30	 Traveled-Distance: 23.17	 Remaining-Distance: 742.11
+Sand-Penalty: 41.6	 Living-Penalty: -62.4
+Time-Steps: 5566	 Episode-Num: 148	 Episode-Reward: -30.30000000000001
+Episode-Steps: 85	 Traveled-Distance: 93.85	 Remaining-Distance: 668.78
+Sand-Penalty: 2.62	 Living-Penalty: -32.92
+Time-Steps: 5595	 Episode-Num: 149	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 21.28	 Remaining-Distance: 746.47
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 5624	 Episode-Num: 150	 Episode-Reward: -20.3
+Episode-Steps: 29	 Traveled-Distance: 15.39	 Remaining-Distance: 752.3
+Sand-Penalty: 19.33	 Living-Penalty: -39.63
+Time-Steps: 5675	 Episode-Num: 151	 Episode-Reward: -32.8
+Episode-Steps: 51	 Traveled-Distance: 24.45	 Remaining-Distance: 750.86
+Sand-Penalty: 21.42	 Living-Penalty: -54.22
+Time-Steps: 5712	 Episode-Num: 152	 Episode-Reward: -18.9
+Episode-Steps: 37	 Traveled-Distance: 35.88	 Remaining-Distance: 734.21
+Sand-Penalty: 3.35	 Living-Penalty: -22.25
+Time-Steps: 5742	 Episode-Num: 153	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 32.16	 Remaining-Distance: 719.98
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 5812	 Episode-Num: 154	 Episode-Reward: -17.4
+Episode-Steps: 70	 Traveled-Distance: 51.81	 Remaining-Distance: 700.4
+Sand-Penalty: 0.99	 Living-Penalty: -18.39
+Time-Steps: 5849	 Episode-Num: 155	 Episode-Reward: -18.6
+Episode-Steps: 37	 Traveled-Distance: 30.93	 Remaining-Distance: 721.23
+Sand-Penalty: 3.02	 Living-Penalty: -21.62
+Time-Steps: 5882	 Episode-Num: 156	 Episode-Reward: -20.8
+Episode-Steps: 33	 Traveled-Distance: 22.93	 Remaining-Distance: 751.45
+Sand-Penalty: 15.41	 Living-Penalty: -36.21
+Time-Steps: 5912	 Episode-Num: 157	 Episode-Reward: -20.2
+Episode-Steps: 30	 Traveled-Distance: 21.58	 Remaining-Distance: 742.78
+Sand-Penalty: 13.47	 Living-Penalty: -33.67
+Time-Steps: 5939	 Episode-Num: 158	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 27.89	 Remaining-Distance: 724.22
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 5980	 Episode-Num: 159	 Episode-Reward: -18.5
+Episode-Steps: 41	 Traveled-Distance: 35.54	 Remaining-Distance: 725.66
+Sand-Penalty: 2.48	 Living-Penalty: -20.98
+Time-Steps: 6005	 Episode-Num: 160	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 16.02	 Remaining-Distance: 739.86
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6046	 Episode-Num: 161	 Episode-Reward: -18.5
+Episode-Steps: 41	 Traveled-Distance: 34.52	 Remaining-Distance: 717.92
+Sand-Penalty: 2.48	 Living-Penalty: -20.98
+Time-Steps: 6071	 Episode-Num: 162	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 16.56	 Remaining-Distance: 737.31
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6142	 Episode-Num: 163	 Episode-Reward: -15.799999999999999
+Episode-Steps: 71	 Traveled-Distance: 83.11	 Remaining-Distance: 670.26
+Sand-Penalty: 0.77	 Living-Penalty: -16.57
+Time-Steps: 6169	 Episode-Num: 164	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 24.75	 Remaining-Distance: 727.92
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 6200	 Episode-Num: 165	 Episode-Reward: -20.1
+Episode-Steps: 31	 Traveled-Distance: 27.63	 Remaining-Distance: 744.89
+Sand-Penalty: 10.31	 Living-Penalty: -30.41
+Time-Steps: 6225	 Episode-Num: 166	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 13.32	 Remaining-Distance: 742.1
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6262	 Episode-Num: 167	 Episode-Reward: -21.3
+Episode-Steps: 37	 Traveled-Distance: 23.91	 Remaining-Distance: 749.32
+Sand-Penalty: 12.91	 Living-Penalty: -34.21
+Time-Steps: 6293	 Episode-Num: 168	 Episode-Reward: -18.9
+Episode-Steps: 31	 Traveled-Distance: 29.56	 Remaining-Distance: 722.88
+Sand-Penalty: 4.78	 Living-Penalty: -23.68
+Time-Steps: 6327	 Episode-Num: 169	 Episode-Reward: -18.9
+Episode-Steps: 34	 Traveled-Distance: 27.95	 Remaining-Distance: 724.68
+Sand-Penalty: 3.94	 Living-Penalty: -22.84
+Time-Steps: 6354	 Episode-Num: 170	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 13.44	 Remaining-Distance: 739.56
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 6386	 Episode-Num: 171	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 35.69	 Remaining-Distance: 731.52
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 6416	 Episode-Num: 172	 Episode-Reward: -20.5
+Episode-Steps: 30	 Traveled-Distance: 24.45	 Remaining-Distance: 738.38
+Sand-Penalty: 20.5	 Living-Penalty: -41.0
+Time-Steps: 6445	 Episode-Num: 173	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 27.21	 Remaining-Distance: 747.02
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 6486	 Episode-Num: 174	 Episode-Reward: -17.9
+Episode-Steps: 41	 Traveled-Distance: 46.19	 Remaining-Distance: 706.18
+Sand-Penalty: 2.12	 Living-Penalty: -20.02
+Time-Steps: 6517	 Episode-Num: 175	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 31.0	 Remaining-Distance: 739.58
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 6552	 Episode-Num: 176	 Episode-Reward: -19.4
+Episode-Steps: 35	 Traveled-Distance: 33.35	 Remaining-Distance: 736.34
+Sand-Penalty: 4.56	 Living-Penalty: -23.96
+Time-Steps: 6586	 Episode-Num: 177	 Episode-Reward: -19.2
+Episode-Steps: 34	 Traveled-Distance: 36.33	 Remaining-Distance: 726.74
+Sand-Penalty: 4.47	 Living-Penalty: -23.67
+Time-Steps: 6617	 Episode-Num: 178	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 30.35	 Remaining-Distance: 722.36
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 6642	 Episode-Num: 179	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 20.81	 Remaining-Distance: 733.32
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6677	 Episode-Num: 180	 Episode-Reward: -19.4
+Episode-Steps: 35	 Traveled-Distance: 33.66	 Remaining-Distance: 736.79
+Sand-Penalty: 4.56	 Living-Penalty: -23.96
+Time-Steps: 6710	 Episode-Num: 181	 Episode-Reward: -19.0
+Episode-Steps: 33	 Traveled-Distance: 37.42	 Remaining-Distance: 714.8
+Sand-Penalty: 4.37	 Living-Penalty: -23.37
+Time-Steps: 6739	 Episode-Num: 182	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 28.33	 Remaining-Distance: 743.86
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 6780	 Episode-Num: 183	 Episode-Reward: -18.2
+Episode-Steps: 41	 Traveled-Distance: 44.91	 Remaining-Distance: 707.21
+Sand-Penalty: 2.29	 Living-Penalty: -20.49
+Time-Steps: 6805	 Episode-Num: 184	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 12.68	 Remaining-Distance: 740.78
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6849	 Episode-Num: 185	 Episode-Reward: -17.9
+Episode-Steps: 44	 Traveled-Distance: 51.33	 Remaining-Distance: 700.9
+Sand-Penalty: 1.92	 Living-Penalty: -19.82
+Time-Steps: 6874	 Episode-Num: 186	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 14.95	 Remaining-Distance: 737.38
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 6915	 Episode-Num: 187	 Episode-Reward: -21.2
+Episode-Steps: 41	 Traveled-Distance: 22.26	 Remaining-Distance: 754.64
+Sand-Penalty: 7.19	 Living-Penalty: -28.39
+Time-Steps: 6957	 Episode-Num: 188	 Episode-Reward: -17.799999999999997
+Episode-Steps: 42	 Traveled-Distance: 49.15	 Remaining-Distance: 702.98
+Sand-Penalty: 2.0	 Living-Penalty: -19.8
+Time-Steps: 6983	 Episode-Num: 189	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 20.38	 Remaining-Distance: 732.94
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 7017	 Episode-Num: 190	 Episode-Reward: -18.9
+Episode-Steps: 34	 Traveled-Distance: 31.51	 Remaining-Distance: 736.66
+Sand-Penalty: 3.94	 Living-Penalty: -22.84
+Time-Steps: 7041	 Episode-Num: 191	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 7.9	 Remaining-Distance: 748.52
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 7069	 Episode-Num: 192	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 25.57	 Remaining-Distance: 727.17
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 7137	 Episode-Num: 193	 Episode-Reward: -40.19999999999999
+Episode-Steps: 68	 Traveled-Distance: 15.08	 Remaining-Distance: 762.84
+Sand-Penalty: 46.48	 Living-Penalty: -86.68
+Time-Steps: 7221	 Episode-Num: 194	 Episode-Reward: -27.000000000000007
+Episode-Steps: 84	 Traveled-Distance: 56.3	 Remaining-Distance: 707.93
+Sand-Penalty: 2.46	 Living-Penalty: -29.46
+Time-Steps: 7260	 Episode-Num: 195	 Episode-Reward: -23.200000000000003
+Episode-Steps: 39	 Traveled-Distance: 28.86	 Remaining-Distance: 777.52
+Sand-Penalty: -24.42	 Living-Penalty: 1.22
+Time-Steps: 7311	 Episode-Num: 196	 Episode-Reward: -21.7
+Episode-Steps: 51	 Traveled-Distance: 13.14	 Remaining-Distance: 745.48
+Sand-Penalty: 4.38	 Living-Penalty: -26.08
+Time-Steps: 7342	 Episode-Num: 197	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 32.17	 Remaining-Distance: 720.12
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 7376	 Episode-Num: 198	 Episode-Reward: -19.2
+Episode-Steps: 34	 Traveled-Distance: 38.42	 Remaining-Distance: 727.65
+Sand-Penalty: 4.47	 Living-Penalty: -23.67
+Time-Steps: 7428	 Episode-Num: 199	 Episode-Reward: -35.199999999999996
+Episode-Steps: 52	 Traveled-Distance: 29.21	 Remaining-Distance: 738.67
+Sand-Penalty: 42.74	 Living-Penalty: -77.94
+Time-Steps: 7513	 Episode-Num: 200	 Episode-Reward: -46.89999999999998
+Episode-Steps: 85	 Traveled-Distance: 19.85	 Remaining-Distance: 766.01
+Sand-Penalty: 31.03	 Living-Penalty: -77.93
+Time-Steps: 7549	 Episode-Num: 201	 Episode-Reward: -19.0
+Episode-Steps: 36	 Traveled-Distance: 27.55	 Remaining-Distance: 740.5
+Sand-Penalty: 3.65	 Living-Penalty: -22.65
+Time-Steps: 7599	 Episode-Num: 202	 Episode-Reward: -18.799999999999997
+Episode-Steps: 50	 Traveled-Distance: 52.88	 Remaining-Distance: 713.21
+Sand-Penalty: 1.98	 Living-Penalty: -20.78
+Time-Steps: 7624	 Episode-Num: 203	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 19.06	 Remaining-Distance: 733.14
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 7667	 Episode-Num: 204	 Episode-Reward: -18.3
+Episode-Steps: 43	 Traveled-Distance: 55.56	 Remaining-Distance: 705.61
+Sand-Penalty: 2.19	 Living-Penalty: -20.49
+Time-Steps: 7701	 Episode-Num: 205	 Episode-Reward: -19.2
+Episode-Steps: 34	 Traveled-Distance: 32.67	 Remaining-Distance: 734.57
+Sand-Penalty: 4.47	 Living-Penalty: -23.67
+Time-Steps: 7739	 Episode-Num: 206	 Episode-Reward: -18.8
+Episode-Steps: 38	 Traveled-Distance: 33.36	 Remaining-Distance: 733.65
+Sand-Penalty: 3.08	 Living-Penalty: -21.88
+Time-Steps: 7768	 Episode-Num: 207	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 18.16	 Remaining-Distance: 759.41
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 7792	 Episode-Num: 208	 Episode-Reward: -19.6
+Episode-Steps: 24	 Traveled-Distance: 18.57	 Remaining-Distance: 734.16
+Sand-Penalty: 24.5	 Living-Penalty: -44.1
+Time-Steps: 7847	 Episode-Num: 209	 Episode-Reward: -25.000000000000004
+Episode-Steps: 55	 Traveled-Distance: 32.59	 Remaining-Distance: 719.85
+Sand-Penalty: 4.31	 Living-Penalty: -29.31
+Time-Steps: 7875	 Episode-Num: 210	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 23.52	 Remaining-Distance: 729.52
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 7924	 Episode-Num: 211	 Episode-Reward: -21.299999999999997
+Episode-Steps: 49	 Traveled-Distance: 42.49	 Remaining-Distance: 725.43
+Sand-Penalty: 2.71	 Living-Penalty: -24.01
+Time-Steps: 7970	 Episode-Num: 212	 Episode-Reward: -33.9
+Episode-Steps: 46	 Traveled-Distance: 27.42	 Remaining-Distance: 776.48
+Sand-Penalty: -67.8	 Living-Penalty: 33.9
+Time-Steps: 7994	 Episode-Num: 213	 Episode-Reward: -19.6
+Episode-Steps: 24	 Traveled-Distance: 16.28	 Remaining-Distance: 735.89
+Sand-Penalty: 24.5	 Living-Penalty: -44.1
+Time-Steps: 8071	 Episode-Num: 214	 Episode-Reward: -28.70000000000001
+Episode-Steps: 77	 Traveled-Distance: 86.09	 Remaining-Distance: 666.6
+Sand-Penalty: 2.76	 Living-Penalty: -31.46
+Time-Steps: 8115	 Episode-Num: 215	 Episode-Reward: -28.1
+Episode-Steps: 44	 Traveled-Distance: 23.98	 Remaining-Distance: 743.34
+Sand-Penalty: 121.77	 Living-Penalty: -149.87
+Time-Steps: 8145	 Episode-Num: 216	 Episode-Reward: -19.9
+Episode-Steps: 30	 Traveled-Distance: 27.11	 Remaining-Distance: 744.57
+Sand-Penalty: 9.95	 Living-Penalty: -29.85
+Time-Steps: 8192	 Episode-Num: 217	 Episode-Reward: -18.8
+Episode-Steps: 47	 Traveled-Distance: 34.21	 Remaining-Distance: 717.98
+Sand-Penalty: 2.17	 Living-Penalty: -20.97
+Time-Steps: 8251	 Episode-Num: 218	 Episode-Reward: -25.6
+Episode-Steps: 59	 Traveled-Distance: 43.89	 Remaining-Distance: 708.22
+Sand-Penalty: 3.44	 Living-Penalty: -29.04
+Time-Steps: 8276	 Episode-Num: 219	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 10.67	 Remaining-Distance: 744.61
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 8300	 Episode-Num: 220	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 20.4	 Remaining-Distance: 731.74
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 8332	 Episode-Num: 221	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 34.06	 Remaining-Distance: 718.05
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 8360	 Episode-Num: 222	 Episode-Reward: -20.4
+Episode-Steps: 28	 Traveled-Distance: 25.99	 Remaining-Distance: 743.39
+Sand-Penalty: 34.0	 Living-Penalty: -54.4
+Time-Steps: 8474	 Episode-Num: 223	 Episode-Reward: -61.20000000000001
+Episode-Steps: 114	 Traveled-Distance: 18.37	 Remaining-Distance: 761.71
+Sand-Penalty: 27.69	 Living-Penalty: -88.89
+Time-Steps: 8506	 Episode-Num: 224	 Episode-Reward: -18.8
+Episode-Steps: 32	 Traveled-Distance: 25.96	 Remaining-Distance: 726.55
+Sand-Penalty: 4.27	 Living-Penalty: -23.07
+Time-Steps: 8531	 Episode-Num: 225	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 9.3	 Remaining-Distance: 744.42
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 8559	 Episode-Num: 226	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 29.15	 Remaining-Distance: 723.03
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 8595	 Episode-Num: 227	 Episode-Reward: -19.3
+Episode-Steps: 36	 Traveled-Distance: 41.62	 Remaining-Distance: 721.88
+Sand-Penalty: 4.11	 Living-Penalty: -23.41
+Time-Steps: 8621	 Episode-Num: 228	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 14.59	 Remaining-Distance: 742.07
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 8652	 Episode-Num: 229	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 31.06	 Remaining-Distance: 738.34
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 8732	 Episode-Num: 230	 Episode-Reward: -17.299999999999997
+Episode-Steps: 80	 Traveled-Distance: 85.06	 Remaining-Distance: 668.65
+Sand-Penalty: 0.84	 Living-Penalty: -18.14
+Time-Steps: 8767	 Episode-Num: 231	 Episode-Reward: -18.8
+Episode-Steps: 35	 Traveled-Distance: 31.66	 Remaining-Distance: 736.66
+Sand-Penalty: 3.58	 Living-Penalty: -22.38
+Time-Steps: 8791	 Episode-Num: 232	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 16.69	 Remaining-Distance: 736.81
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 8831	 Episode-Num: 233	 Episode-Reward: -20.7
+Episode-Steps: 40	 Traveled-Distance: 19.0	 Remaining-Distance: 758.72
+Sand-Penalty: 5.91	 Living-Penalty: -26.61
+Time-Steps: 8868	 Episode-Num: 234	 Episode-Reward: -19.2
+Episode-Steps: 37	 Traveled-Distance: 39.62	 Remaining-Distance: 721.74
+Sand-Penalty: 3.73	 Living-Penalty: -22.93
+Time-Steps: 8903	 Episode-Num: 235	 Episode-Reward: -18.8
+Episode-Steps: 35	 Traveled-Distance: 29.55	 Remaining-Distance: 723.13
+Sand-Penalty: 3.58	 Living-Penalty: -22.38
+Time-Steps: 8961	 Episode-Num: 236	 Episode-Reward: -38.39999999999999
+Episode-Steps: 58	 Traveled-Distance: 41.18	 Remaining-Distance: 722.65
+Sand-Penalty: 23.54	 Living-Penalty: -61.94
+Time-Steps: 8995	 Episode-Num: 237	 Episode-Reward: -20.7
+Episode-Steps: 34	 Traveled-Distance: 20.26	 Remaining-Distance: 747.8
+Sand-Penalty: 11.5	 Living-Penalty: -32.2
+Time-Steps: 9144	 Episode-Num: 238	 Episode-Reward: -55.50000000000004
+Episode-Steps: 149	 Traveled-Distance: 80.93	 Remaining-Distance: 683.32
+Sand-Penalty: 6.62	 Living-Penalty: -62.12
+Time-Steps: 9171	 Episode-Num: 239	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 24.33	 Remaining-Distance: 729.21
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 9219	 Episode-Num: 240	 Episode-Reward: -18.1
+Episode-Steps: 48	 Traveled-Distance: 58.83	 Remaining-Distance: 705.95
+Sand-Penalty: 1.79	 Living-Penalty: -19.89
+Time-Steps: 9273	 Episode-Num: 241	 Episode-Reward: -17.799999999999997
+Episode-Steps: 54	 Traveled-Distance: 49.04	 Remaining-Distance: 712.81
+Sand-Penalty: 1.45	 Living-Penalty: -19.25
+Time-Steps: 9308	 Episode-Num: 242	 Episode-Reward: -19.1
+Episode-Steps: 35	 Traveled-Distance: 30.71	 Remaining-Distance: 721.48
+Sand-Penalty: 4.02	 Living-Penalty: -23.12
+Time-Steps: 9336	 Episode-Num: 243	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 22.05	 Remaining-Distance: 732.03
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 9459	 Episode-Num: 244	 Episode-Reward: -62.1
+Episode-Steps: 123	 Traveled-Distance: 54.08	 Remaining-Distance: 805.56
+Sand-Penalty: -243.62	 Living-Penalty: 181.52
+Time-Steps: 9484	 Episode-Num: 245	 Episode-Reward: -19.5
+Episode-Steps: 25	 Traveled-Distance: 19.33	 Remaining-Distance: 734.38
+Sand-Penalty: 15.6	 Living-Penalty: -35.1
+Time-Steps: 9510	 Episode-Num: 246	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 18.9	 Remaining-Distance: 735.81
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 9536	 Episode-Num: 247	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 21.54	 Remaining-Distance: 731.96
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 9562	 Episode-Num: 248	 Episode-Reward: -19.7
+Episode-Steps: 26	 Traveled-Distance: 24.79	 Remaining-Distance: 727.33
+Sand-Penalty: 16.42	 Living-Penalty: -36.12
+Time-Steps: 9586	 Episode-Num: 249	 Episode-Reward: -19.9
+Episode-Steps: 24	 Traveled-Distance: 19.5	 Remaining-Distance: 734.09
+Sand-Penalty: 66.33	 Living-Penalty: -86.23
+Time-Steps: 9615	 Episode-Num: 250	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 24.07	 Remaining-Distance: 728.96
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 9688	 Episode-Num: 251	 Episode-Reward: -44.49999999999999
+Episode-Steps: 73	 Traveled-Distance: 42.05	 Remaining-Distance: 722.21
+Sand-Penalty: 13.04	 Living-Penalty: -57.54
+Time-Steps: 9715	 Episode-Num: 252	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 20.65	 Remaining-Distance: 731.49
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 9777	 Episode-Num: 253	 Episode-Reward: -35.49999999999999
+Episode-Steps: 62	 Traveled-Distance: 23.36	 Remaining-Distance: 744.66
+Sand-Penalty: 24.41	 Living-Penalty: -59.91
+Time-Steps: 9804	 Episode-Num: 254	 Episode-Reward: -19.6
+Episode-Steps: 27	 Traveled-Distance: 20.84	 Remaining-Distance: 733.41
+Sand-Penalty: 11.88	 Living-Penalty: -31.48
+Time-Steps: 9834	 Episode-Num: 255	 Episode-Reward: -20.2
+Episode-Steps: 30	 Traveled-Distance: 29.28	 Remaining-Distance: 736.7
+Sand-Penalty: 13.47	 Living-Penalty: -33.67
+Time-Steps: 9870	 Episode-Num: 256	 Episode-Reward: -19.3
+Episode-Steps: 36	 Traveled-Distance: 32.58	 Remaining-Distance: 738.17
+Sand-Penalty: 4.11	 Living-Penalty: -23.41
+Time-Steps: 9918	 Episode-Num: 257	 Episode-Reward: -18.1
+Episode-Steps: 48	 Traveled-Distance: 58.47	 Remaining-Distance: 706.21
+Sand-Penalty: 1.79	 Living-Penalty: -19.89
+Time-Steps: 9951	 Episode-Num: 258	 Episode-Reward: -19.3
+Episode-Steps: 33	 Traveled-Distance: 37.28	 Remaining-Distance: 728.91
+Sand-Penalty: 5.01	 Living-Penalty: -24.31
+Time-Steps: 9976	 Episode-Num: 259	 Episode-Reward: -19.8
+Episode-Steps: 25	 Traveled-Distance: 22.1	 Remaining-Distance: 731.53
+Sand-Penalty: 26.4	 Living-Penalty: -46.2
+Time-Steps: 10005	 Episode-Num: 260	 Episode-Reward: -20.0
+Episode-Steps: 29	 Traveled-Distance: 28.84	 Remaining-Distance: 739.5
+Sand-Penalty: 12.9	 Living-Penalty: -32.9
+Time-Steps: 10123	 Episode-Num: 261	 Episode-Reward: -55.59999999999996
+Episode-Steps: 118	 Traveled-Distance: 48.67	 Remaining-Distance: 711.96
+Sand-Penalty: 8.91	 Living-Penalty: -64.51
+Time-Steps: 10154	 Episode-Num: 262	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 21.78	 Remaining-Distance: 745.94
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10185	 Episode-Num: 263	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.6	 Remaining-Distance: 745.54
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10216	 Episode-Num: 264	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.2	 Remaining-Distance: 745.8
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10247	 Episode-Num: 265	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.68	 Remaining-Distance: 745.12
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10278	 Episode-Num: 266	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.13	 Remaining-Distance: 744.85
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10309	 Episode-Num: 267	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 23.93	 Remaining-Distance: 743.88
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 10341	 Episode-Num: 268	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 25.28	 Remaining-Distance: 744.11
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10373	 Episode-Num: 269	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.0	 Remaining-Distance: 743.81
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10405	 Episode-Num: 270	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.19	 Remaining-Distance: 743.52
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10437	 Episode-Num: 271	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 25.2	 Remaining-Distance: 744.05
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10469	 Episode-Num: 272	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.15	 Remaining-Distance: 743.54
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10501	 Episode-Num: 273	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.02	 Remaining-Distance: 743.6
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10533	 Episode-Num: 274	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 25.99	 Remaining-Distance: 743.85
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10565	 Episode-Num: 275	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.28	 Remaining-Distance: 743.17
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10597	 Episode-Num: 276	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.05	 Remaining-Distance: 743.8
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10628	 Episode-Num: 277	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 23.88	 Remaining-Distance: 743.64
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 10659	 Episode-Num: 278	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.77	 Remaining-Distance: 744.52
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10691	 Episode-Num: 279	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 26.23	 Remaining-Distance: 743.92
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10722	 Episode-Num: 280	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 24.85	 Remaining-Distance: 743.72
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 10754	 Episode-Num: 281	 Episode-Reward: -19.4
+Episode-Steps: 32	 Traveled-Distance: 25.89	 Remaining-Distance: 744.19
+Sand-Penalty: 5.71	 Living-Penalty: -25.11
+Time-Steps: 10785	 Episode-Num: 282	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.58	 Remaining-Distance: 744.41
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10816	 Episode-Num: 283	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.29	 Remaining-Distance: 744.59
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10847	 Episode-Num: 284	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.0	 Remaining-Distance: 744.47
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10878	 Episode-Num: 285	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.01	 Remaining-Distance: 744.69
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10909	 Episode-Num: 286	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.25	 Remaining-Distance: 744.99
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 10940	 Episode-Num: 287	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 23.33	 Remaining-Distance: 743.74
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 10971	 Episode-Num: 288	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.27	 Remaining-Distance: 744.63
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11002	 Episode-Num: 289	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.01	 Remaining-Distance: 745.1
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11033	 Episode-Num: 290	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 21.97	 Remaining-Distance: 745.25
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11064	 Episode-Num: 291	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.05	 Remaining-Distance: 744.89
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11095	 Episode-Num: 292	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 20.34	 Remaining-Distance: 745.71
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11126	 Episode-Num: 293	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 20.32	 Remaining-Distance: 745.6
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11157	 Episode-Num: 294	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 20.13	 Remaining-Distance: 745.38
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11187	 Episode-Num: 295	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 19.33	 Remaining-Distance: 745.8
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11217	 Episode-Num: 296	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 18.98	 Remaining-Distance: 745.78
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11287	 Episode-Num: 297	 Episode-Reward: -37.09999999999997
+Episode-Steps: 70	 Traveled-Distance: 35.76	 Remaining-Distance: 726.75
+Sand-Penalty: 7.23	 Living-Penalty: -44.33
+Time-Steps: 11317	 Episode-Num: 298	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 19.6	 Remaining-Distance: 745.25
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11348	 Episode-Num: 299	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 21.49	 Remaining-Distance: 745.76
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11379	 Episode-Num: 300	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 20.89	 Remaining-Distance: 745.79
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11410	 Episode-Num: 301	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 21.77	 Remaining-Distance: 745.01
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11441	 Episode-Num: 302	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.34	 Remaining-Distance: 744.87
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11472	 Episode-Num: 303	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 24.0	 Remaining-Distance: 744.48
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11503	 Episode-Num: 304	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 21.92	 Remaining-Distance: 745.61
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11534	 Episode-Num: 305	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.8	 Remaining-Distance: 745.19
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11564	 Episode-Num: 306	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 20.63	 Remaining-Distance: 745.71
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11595	 Episode-Num: 307	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 24.19	 Remaining-Distance: 744.84
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11626	 Episode-Num: 308	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 25.39	 Remaining-Distance: 743.41
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 11657	 Episode-Num: 309	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 22.79	 Remaining-Distance: 744.76
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11688	 Episode-Num: 310	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 24.9	 Remaining-Distance: 744.11
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 11719	 Episode-Num: 311	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 26.14	 Remaining-Distance: 743.96
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 11750	 Episode-Num: 312	 Episode-Reward: -19.8
+Episode-Steps: 31	 Traveled-Distance: 22.34	 Remaining-Distance: 745.07
+Sand-Penalty: 8.08	 Living-Penalty: -27.88
+Time-Steps: 11780	 Episode-Num: 313	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 20.01	 Remaining-Distance: 745.17
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11811	 Episode-Num: 314	 Episode-Reward: -19.5
+Episode-Steps: 31	 Traveled-Distance: 23.65	 Remaining-Distance: 745.56
+Sand-Penalty: 6.61	 Living-Penalty: -26.11
+Time-Steps: 11843	 Episode-Num: 315	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 30.01	 Remaining-Distance: 741.62
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 11874	 Episode-Num: 316	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 27.41	 Remaining-Distance: 743.21
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 11904	 Episode-Num: 317	 Episode-Reward: -19.6
+Episode-Steps: 30	 Traveled-Distance: 21.61	 Remaining-Distance: 746.53
+Sand-Penalty: 7.84	 Living-Penalty: -27.44
+Time-Steps: 11960	 Episode-Num: 318	 Episode-Reward: -34.6
+Episode-Steps: 56	 Traveled-Distance: 29.17	 Remaining-Distance: 736.04
+Sand-Penalty: 10.05	 Living-Penalty: -44.65
+Time-Steps: 12009	 Episode-Num: 319	 Episode-Reward: -26.900000000000006
+Episode-Steps: 49	 Traveled-Distance: 24.69	 Remaining-Distance: 738.0
+Sand-Penalty: 7.19	 Living-Penalty: -34.09
+Time-Steps: 12089	 Episode-Num: 320	 Episode-Reward: -39.099999999999994
+Episode-Steps: 80	 Traveled-Distance: 27.51	 Remaining-Distance: 735.09
+Sand-Penalty: 8.03	 Living-Penalty: -47.13
+Time-Steps: 12185	 Episode-Num: 321	 Episode-Reward: -33.7
+Episode-Steps: 96	 Traveled-Distance: 24.81	 Remaining-Distance: 740.31
+Sand-Penalty: 3.94	 Living-Penalty: -37.64
+Time-Steps: 12286	 Episode-Num: 322	 Episode-Reward: -27.700000000000003
+Episode-Steps: 101	 Traveled-Distance: 17.93	 Remaining-Distance: 748.64
+Sand-Penalty: 2.3	 Living-Penalty: -30.0
+Time-Steps: 12394	 Episode-Num: 323	 Episode-Reward: -32.2
+Episode-Steps: 108	 Traveled-Distance: 20.28	 Remaining-Distance: 747.62
+Sand-Penalty: 2.99	 Living-Penalty: -35.19
+Time-Steps: 12547	 Episode-Num: 324	 Episode-Reward: -34.400000000000006
+Episode-Steps: 153	 Traveled-Distance: 17.11	 Remaining-Distance: 750.55
+Sand-Penalty: 1.95	 Living-Penalty: -36.35
+Time-Steps: 12677	 Episode-Num: 325	 Episode-Reward: -32.20000000000001
+Episode-Steps: 130	 Traveled-Distance: 17.12	 Remaining-Distance: 750.33
+Sand-Penalty: 2.2	 Living-Penalty: -34.4
+Time-Steps: 12738	 Episode-Num: 326	 Episode-Reward: -27.3
+Episode-Steps: 61	 Traveled-Distance: 19.79	 Remaining-Distance: 750.63
+Sand-Penalty: 5.5	 Living-Penalty: -32.8
+Time-Steps: 12826	 Episode-Num: 327	 Episode-Reward: -30.700000000000003
+Episode-Steps: 88	 Traveled-Distance: 17.68	 Remaining-Distance: 749.78
+Sand-Penalty: 3.87	 Living-Penalty: -34.57
+Time-Steps: 12943	 Episode-Num: 328	 Episode-Reward: -38.5
+Episode-Steps: 117	 Traveled-Distance: 17.58	 Remaining-Distance: 749.65
+Sand-Penalty: 4.31	 Living-Penalty: -42.81
+Time-Steps: 13012	 Episode-Num: 329	 Episode-Reward: -27.200000000000003
+Episode-Steps: 69	 Traveled-Distance: 17.0	 Remaining-Distance: 752.85
+Sand-Penalty: 4.5	 Living-Penalty: -31.7
+Time-Steps: 13099	 Episode-Num: 330	 Episode-Reward: -31.6
+Episode-Steps: 87	 Traveled-Distance: 17.29	 Remaining-Distance: 749.77
+Sand-Penalty: 4.3	 Living-Penalty: -35.9
+Time-Steps: 13139	 Episode-Num: 331	 Episode-Reward: -21.6
+Episode-Steps: 40	 Traveled-Distance: 17.23	 Remaining-Distance: 758.2
+Sand-Penalty: 10.8	 Living-Penalty: -32.4
+Time-Steps: 13189	 Episode-Num: 332	 Episode-Reward: -28.3
+Episode-Steps: 50	 Traveled-Distance: 18.99	 Remaining-Distance: 754.48
+Sand-Penalty: 12.74	 Living-Penalty: -41.04
+Time-Steps: 13238	 Episode-Num: 333	 Episode-Reward: -26.200000000000003
+Episode-Steps: 49	 Traveled-Distance: 18.05	 Remaining-Distance: 754.02
+Sand-Penalty: 9.23	 Living-Penalty: -35.43
+Time-Steps: 13267	 Episode-Num: 334	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 20.36	 Remaining-Distance: 762.73
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 13296	 Episode-Num: 335	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 21.18	 Remaining-Distance: 762.13
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 13325	 Episode-Num: 336	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 22.93	 Remaining-Distance: 759.76
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13354	 Episode-Num: 337	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 25.88	 Remaining-Distance: 754.2
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13383	 Episode-Num: 338	 Episode-Reward: -20.3
+Episode-Steps: 29	 Traveled-Distance: 27.53	 Remaining-Distance: 749.93
+Sand-Penalty: 19.33	 Living-Penalty: -39.63
+Time-Steps: 13412	 Episode-Num: 339	 Episode-Reward: -20.0
+Episode-Steps: 29	 Traveled-Distance: 28.17	 Remaining-Distance: 747.96
+Sand-Penalty: 12.9	 Living-Penalty: -32.9
+Time-Steps: 13441	 Episode-Num: 340	 Episode-Reward: -19.1
+Episode-Steps: 29	 Traveled-Distance: 30.01	 Remaining-Distance: 741.83
+Sand-Penalty: 6.26	 Living-Penalty: -25.36
+Time-Steps: 13471	 Episode-Num: 341	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 32.8	 Remaining-Distance: 737.61
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 13501	 Episode-Num: 342	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 33.0	 Remaining-Distance: 736.66
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 13530	 Episode-Num: 343	 Episode-Reward: -20.3
+Episode-Steps: 29	 Traveled-Distance: 28.44	 Remaining-Distance: 747.25
+Sand-Penalty: 19.33	 Living-Penalty: -39.63
+Time-Steps: 13559	 Episode-Num: 344	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 24.35	 Remaining-Distance: 757.48
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13588	 Episode-Num: 345	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 21.82	 Remaining-Distance: 761.26
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 13630	 Episode-Num: 346	 Episode-Reward: -24.400000000000002
+Episode-Steps: 42	 Traveled-Distance: 17.31	 Remaining-Distance: 757.97
+Sand-Penalty: 14.77	 Living-Penalty: -39.17
+Time-Steps: 13659	 Episode-Num: 347	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 22.08	 Remaining-Distance: 761.4
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 13688	 Episode-Num: 348	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 26.2	 Remaining-Distance: 753.97
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13717	 Episode-Num: 349	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 26.93	 Remaining-Distance: 752.29
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13746	 Episode-Num: 350	 Episode-Reward: -20.3
+Episode-Steps: 29	 Traveled-Distance: 27.5	 Remaining-Distance: 750.64
+Sand-Penalty: 19.33	 Living-Penalty: -39.63
+Time-Steps: 13775	 Episode-Num: 351	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 26.52	 Remaining-Distance: 753.55
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 13804	 Episode-Num: 352	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 22.68	 Remaining-Distance: 761.63
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 13855	 Episode-Num: 353	 Episode-Reward: -29.3
+Episode-Steps: 51	 Traveled-Distance: 17.51	 Remaining-Distance: 758.02
+Sand-Penalty: 13.91	 Living-Penalty: -43.21
+Time-Steps: 13916	 Episode-Num: 354	 Episode-Reward: -26.8
+Episode-Steps: 61	 Traveled-Distance: 16.84	 Remaining-Distance: 757.3
+Sand-Penalty: 5.63	 Living-Penalty: -32.43
+Time-Steps: 13945	 Episode-Num: 355	 Episode-Reward: -19.1
+Episode-Steps: 29	 Traveled-Distance: 30.67	 Remaining-Distance: 740.19
+Sand-Penalty: 6.26	 Living-Penalty: -25.36
+Time-Steps: 13974	 Episode-Num: 356	 Episode-Reward: -20.3
+Episode-Steps: 29	 Traveled-Distance: 29.81	 Remaining-Distance: 744.01
+Sand-Penalty: 19.33	 Living-Penalty: -39.63
+Time-Steps: 14002	 Episode-Num: 357	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.32	 Remaining-Distance: 752.35
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14030	 Episode-Num: 358	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 23.07	 Remaining-Distance: 757.84
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14058	 Episode-Num: 359	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 23.33	 Remaining-Distance: 757.28
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14086	 Episode-Num: 360	 Episode-Reward: -20.4
+Episode-Steps: 28	 Traveled-Distance: 25.81	 Remaining-Distance: 751.44
+Sand-Penalty: 34.0	 Living-Penalty: -54.4
+Time-Steps: 14114	 Episode-Num: 361	 Episode-Reward: -20.4
+Episode-Steps: 28	 Traveled-Distance: 25.9	 Remaining-Distance: 751.28
+Sand-Penalty: 34.0	 Living-Penalty: -54.4
+Time-Steps: 14142	 Episode-Num: 362	 Episode-Reward: -20.4
+Episode-Steps: 28	 Traveled-Distance: 25.74	 Remaining-Distance: 751.54
+Sand-Penalty: 34.0	 Living-Penalty: -54.4
+Time-Steps: 14170	 Episode-Num: 363	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.27	 Remaining-Distance: 752.93
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14198	 Episode-Num: 364	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 22.32	 Remaining-Distance: 758.75
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14226	 Episode-Num: 365	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 23.19	 Remaining-Distance: 756.97
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14255	 Episode-Num: 366	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 28.3	 Remaining-Distance: 749.54
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 14284	 Episode-Num: 367	 Episode-Reward: -20.6
+Episode-Steps: 29	 Traveled-Distance: 28.12	 Remaining-Distance: 750.37
+Sand-Penalty: 37.45	 Living-Penalty: -58.05
+Time-Steps: 14316	 Episode-Num: 368	 Episode-Reward: -21.5
+Episode-Steps: 32	 Traveled-Distance: 24.41	 Remaining-Distance: 772.39
+Sand-Penalty: -215.0	 Living-Penalty: 193.5
+Time-Steps: 14348	 Episode-Num: 369	 Episode-Reward: -21.5
+Episode-Steps: 32	 Traveled-Distance: 24.56	 Remaining-Distance: 772.46
+Sand-Penalty: -215.0	 Living-Penalty: 193.5
+Time-Steps: 14377	 Episode-Num: 370	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 21.37	 Remaining-Distance: 765.06
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14406	 Episode-Num: 371	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 22.35	 Remaining-Distance: 763.94
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14457	 Episode-Num: 372	 Episode-Reward: -31.0
+Episode-Steps: 51	 Traveled-Distance: 20.36	 Remaining-Distance: 764.98
+Sand-Penalty: 31.0	 Living-Penalty: -62.0
+Time-Steps: 14486	 Episode-Num: 373	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 21.7	 Remaining-Distance: 764.89
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14514	 Episode-Num: 374	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 22.71	 Remaining-Distance: 759.27
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14543	 Episode-Num: 375	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 22.66	 Remaining-Distance: 763.7
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14575	 Episode-Num: 376	 Episode-Reward: -21.8
+Episode-Steps: 32	 Traveled-Distance: 25.04	 Remaining-Distance: 772.78
+Sand-Penalty: -36.33	 Living-Penalty: 14.53
+Time-Steps: 14625	 Episode-Num: 377	 Episode-Reward: -26.700000000000003
+Episode-Steps: 50	 Traveled-Distance: 19.4	 Remaining-Distance: 763.01
+Sand-Penalty: 11.12	 Living-Penalty: -37.83
+Time-Steps: 14730	 Episode-Num: 378	 Episode-Reward: -32.300000000000004
+Episode-Steps: 105	 Traveled-Distance: 16.1	 Remaining-Distance: 753.93
+Sand-Penalty: 3.41	 Living-Penalty: -35.71
+Time-Steps: 14759	 Episode-Num: 379	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 23.71	 Remaining-Distance: 762.94
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14788	 Episode-Num: 380	 Episode-Reward: -20.9
+Episode-Steps: 29	 Traveled-Distance: 23.85	 Remaining-Distance: 762.67
+Sand-Penalty: 418.0	 Living-Penalty: -438.9
+Time-Steps: 14816	 Episode-Num: 381	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.23	 Remaining-Distance: 754.39
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14844	 Episode-Num: 382	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.67	 Remaining-Distance: 753.32
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14872	 Episode-Num: 383	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.64	 Remaining-Distance: 753.27
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14900	 Episode-Num: 384	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 27.09	 Remaining-Distance: 748.71
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 14928	 Episode-Num: 385	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 28.56	 Remaining-Distance: 742.89
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 14957	 Episode-Num: 386	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 31.18	 Remaining-Distance: 739.34
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 14985	 Episode-Num: 387	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 27.61	 Remaining-Distance: 746.96
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15013	 Episode-Num: 388	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.09	 Remaining-Distance: 755.06
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15042	 Episode-Num: 389	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 22.36	 Remaining-Distance: 765.32
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 15075	 Episode-Num: 390	 Episode-Reward: -22.0
+Episode-Steps: 33	 Traveled-Distance: 26.53	 Remaining-Distance: 776.04
+Sand-Penalty: -33.85	 Living-Penalty: 11.85
+Time-Steps: 15104	 Episode-Num: 391	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.4	 Remaining-Distance: 764.1
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 15132	 Episode-Num: 392	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 24.77	 Remaining-Distance: 756.18
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15160	 Episode-Num: 393	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 24.25	 Remaining-Distance: 757.53
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15188	 Episode-Num: 394	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 24.06	 Remaining-Distance: 758.1
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15216	 Episode-Num: 395	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.99	 Remaining-Distance: 758.13
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15244	 Episode-Num: 396	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.48	 Remaining-Distance: 759.31
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15272	 Episode-Num: 397	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.03	 Remaining-Distance: 755.68
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15300	 Episode-Num: 398	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.23	 Remaining-Distance: 755.21
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15328	 Episode-Num: 399	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.77	 Remaining-Distance: 753.71
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15356	 Episode-Num: 400	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.51	 Remaining-Distance: 754.54
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15384	 Episode-Num: 401	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 25.92	 Remaining-Distance: 753.33
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15412	 Episode-Num: 402	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 24.23	 Remaining-Distance: 757.86
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15440	 Episode-Num: 403	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.1	 Remaining-Distance: 760.34
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15468	 Episode-Num: 404	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 25.7	 Remaining-Distance: 754.16
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15496	 Episode-Num: 405	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 27.14	 Remaining-Distance: 749.42
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15524	 Episode-Num: 406	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.07	 Remaining-Distance: 753.05
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15552	 Episode-Num: 407	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.46	 Remaining-Distance: 751.81
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15580	 Episode-Num: 408	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 26.71	 Remaining-Distance: 751.04
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15608	 Episode-Num: 409	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.17	 Remaining-Distance: 752.79
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15636	 Episode-Num: 410	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 25.79	 Remaining-Distance: 754.07
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15664	 Episode-Num: 411	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.11	 Remaining-Distance: 752.96
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 15692	 Episode-Num: 412	 Episode-Reward: -20.7
+Episode-Steps: 28	 Traveled-Distance: 27.25	 Remaining-Distance: 749.16
+Sand-Penalty: 207.0	 Living-Penalty: -227.7
+Time-Steps: 15720	 Episode-Num: 413	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 28.61	 Remaining-Distance: 743.56
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 15750	 Episode-Num: 414	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 34.13	 Remaining-Distance: 733.53
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 15782	 Episode-Num: 415	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 38.63	 Remaining-Distance: 727.36
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 15813	 Episode-Num: 416	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 36.42	 Remaining-Distance: 730.31
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 15843	 Episode-Num: 417	 Episode-Reward: -19.3
+Episode-Steps: 30	 Traveled-Distance: 34.11	 Remaining-Distance: 733.67
+Sand-Penalty: 6.43	 Living-Penalty: -25.73
+Time-Steps: 15876	 Episode-Num: 418	 Episode-Reward: -19.0
+Episode-Steps: 33	 Traveled-Distance: 40.8	 Remaining-Distance: 724.48
+Sand-Penalty: 4.37	 Living-Penalty: -23.37
+Time-Steps: 15914	 Episode-Num: 419	 Episode-Reward: -18.5
+Episode-Steps: 38	 Traveled-Distance: 51.17	 Remaining-Distance: 712.71
+Sand-Penalty: 2.8	 Living-Penalty: -21.3
+Time-Steps: 15956	 Episode-Num: 420	 Episode-Reward: -18.1
+Episode-Steps: 42	 Traveled-Distance: 59.36	 Remaining-Distance: 702.49
+Sand-Penalty: 2.15	 Living-Penalty: -20.25
+Time-Steps: 15991	 Episode-Num: 421	 Episode-Reward: -18.8
+Episode-Steps: 35	 Traveled-Distance: 45.04	 Remaining-Distance: 718.97
+Sand-Penalty: 3.58	 Living-Penalty: -22.38
+Time-Steps: 16032	 Episode-Num: 422	 Episode-Reward: -18.2
+Episode-Steps: 41	 Traveled-Distance: 57.33	 Remaining-Distance: 704.69
+Sand-Penalty: 2.29	 Living-Penalty: -20.49
+Time-Steps: 16064	 Episode-Num: 423	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 38.66	 Remaining-Distance: 727.12
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 16092	 Episode-Num: 424	 Episode-Reward: -21.3
+Episode-Steps: 28	 Traveled-Distance: 26.33	 Remaining-Distance: 752.41
+Sand-Penalty: -23.67	 Living-Penalty: 2.37
+Time-Steps: 16120	 Episode-Num: 425	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 24.17	 Remaining-Distance: 758.3
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16148	 Episode-Num: 426	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.98	 Remaining-Distance: 758.68
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16176	 Episode-Num: 427	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.94	 Remaining-Distance: 759.0
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16204	 Episode-Num: 428	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.19	 Remaining-Distance: 749.53
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16232	 Episode-Num: 429	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 28.93	 Remaining-Distance: 742.21
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 16261	 Episode-Num: 430	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 31.22	 Remaining-Distance: 740.15
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 16289	 Episode-Num: 431	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 28.67	 Remaining-Distance: 743.45
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 16317	 Episode-Num: 432	 Episode-Reward: -21.3
+Episode-Steps: 28	 Traveled-Distance: 25.87	 Remaining-Distance: 753.92
+Sand-Penalty: -23.67	 Living-Penalty: 2.37
+Time-Steps: 16345	 Episode-Num: 433	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 22.96	 Remaining-Distance: 761.0
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16374	 Episode-Num: 434	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.29	 Remaining-Distance: 765.04
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16403	 Episode-Num: 435	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 22.78	 Remaining-Distance: 765.86
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16432	 Episode-Num: 436	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.15	 Remaining-Distance: 765.2
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16461	 Episode-Num: 437	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.73	 Remaining-Distance: 764.4
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16491	 Episode-Num: 438	 Episode-Reward: -21.4
+Episode-Steps: 30	 Traveled-Distance: 23.84	 Remaining-Distance: 768.59
+Sand-Penalty: -42.8	 Living-Penalty: 21.4
+Time-Steps: 16522	 Episode-Num: 439	 Episode-Reward: -21.6
+Episode-Steps: 31	 Traveled-Distance: 24.85	 Remaining-Distance: 771.47
+Sand-Penalty: -39.27	 Living-Penalty: 17.67
+Time-Steps: 16551	 Episode-Num: 440	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.11	 Remaining-Distance: 765.34
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16579	 Episode-Num: 441	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 22.59	 Remaining-Distance: 761.67
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16607	 Episode-Num: 442	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.26	 Remaining-Distance: 760.35
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16635	 Episode-Num: 443	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 23.06	 Remaining-Distance: 760.82
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16664	 Episode-Num: 444	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 24.3	 Remaining-Distance: 763.37
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 16692	 Episode-Num: 445	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 25.66	 Remaining-Distance: 754.5
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16720	 Episode-Num: 446	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.16	 Remaining-Distance: 749.67
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16748	 Episode-Num: 447	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.47	 Remaining-Distance: 748.47
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16776	 Episode-Num: 448	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.95	 Remaining-Distance: 750.39
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16804	 Episode-Num: 449	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.2	 Remaining-Distance: 752.9
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16832	 Episode-Num: 450	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.21	 Remaining-Distance: 752.89
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16860	 Episode-Num: 451	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.03	 Remaining-Distance: 750.11
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16888	 Episode-Num: 452	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.21	 Remaining-Distance: 752.97
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 16916	 Episode-Num: 453	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 29.06	 Remaining-Distance: 741.54
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 16945	 Episode-Num: 454	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 31.83	 Remaining-Distance: 736.64
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 16973	 Episode-Num: 455	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 28.69	 Remaining-Distance: 743.41
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 17001	 Episode-Num: 456	 Episode-Reward: -21.3
+Episode-Steps: 28	 Traveled-Distance: 27.82	 Remaining-Distance: 747.16
+Sand-Penalty: -23.67	 Living-Penalty: 2.37
+Time-Steps: 17029	 Episode-Num: 457	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.34	 Remaining-Distance: 749.04
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17057	 Episode-Num: 458	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.42	 Remaining-Distance: 748.72
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17085	 Episode-Num: 459	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 29.07	 Remaining-Distance: 741.52
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 17114	 Episode-Num: 460	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 31.71	 Remaining-Distance: 737.34
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 17145	 Episode-Num: 461	 Episode-Reward: -19.2
+Episode-Steps: 31	 Traveled-Distance: 36.47	 Remaining-Distance: 730.04
+Sand-Penalty: 5.57	 Living-Penalty: -24.77
+Time-Steps: 17177	 Episode-Num: 462	 Episode-Reward: -19.1
+Episode-Steps: 32	 Traveled-Distance: 38.56	 Remaining-Distance: 728.13
+Sand-Penalty: 4.9	 Living-Penalty: -24.0
+Time-Steps: 17206	 Episode-Num: 463	 Episode-Reward: -19.4
+Episode-Steps: 29	 Traveled-Distance: 31.21	 Remaining-Distance: 740.24
+Sand-Penalty: 7.61	 Living-Penalty: -27.01
+Time-Steps: 17234	 Episode-Num: 464	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 28.51	 Remaining-Distance: 744.21
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 17262	 Episode-Num: 465	 Episode-Reward: -21.3
+Episode-Steps: 28	 Traveled-Distance: 27.82	 Remaining-Distance: 747.15
+Sand-Penalty: -23.67	 Living-Penalty: 2.37
+Time-Steps: 17290	 Episode-Num: 466	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.83	 Remaining-Distance: 747.11
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17318	 Episode-Num: 467	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.61	 Remaining-Distance: 748.07
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17346	 Episode-Num: 468	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.37	 Remaining-Distance: 748.98
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17374	 Episode-Num: 469	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.14	 Remaining-Distance: 749.74
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17402	 Episode-Num: 470	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.25	 Remaining-Distance: 749.37
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17430	 Episode-Num: 471	 Episode-Reward: -19.2
+Episode-Steps: 28	 Traveled-Distance: 28.52	 Remaining-Distance: 744.21
+Sand-Penalty: 7.38	 Living-Penalty: -26.58
+Time-Steps: 17458	 Episode-Num: 472	 Episode-Reward: -19.5
+Episode-Steps: 28	 Traveled-Distance: 28.66	 Remaining-Distance: 743.47
+Sand-Penalty: 9.29	 Living-Penalty: -28.79
+Time-Steps: 17486	 Episode-Num: 473	 Episode-Reward: -21.3
+Episode-Steps: 28	 Traveled-Distance: 27.8	 Remaining-Distance: 747.19
+Sand-Penalty: -23.67	 Living-Penalty: 2.37
+Time-Steps: 17514	 Episode-Num: 474	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.47	 Remaining-Distance: 748.56
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17542	 Episode-Num: 475	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.69	 Remaining-Distance: 751.32
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17570	 Episode-Num: 476	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 26.31	 Remaining-Distance: 752.61
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17598	 Episode-Num: 477	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 27.39	 Remaining-Distance: 748.81
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17626	 Episode-Num: 478	 Episode-Reward: -21.0
+Episode-Steps: 28	 Traveled-Distance: 25.31	 Remaining-Distance: 755.62
+Sand-Penalty: -52.5	 Living-Penalty: 31.5
+Time-Steps: 17655	 Episode-Num: 479	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.09	 Remaining-Distance: 765.47
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 17684	 Episode-Num: 480	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 24.13	 Remaining-Distance: 763.78
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 17716	 Episode-Num: 481	 Episode-Reward: -21.8
+Episode-Steps: 32	 Traveled-Distance: 25.95	 Remaining-Distance: 774.07
+Sand-Penalty: -36.33	 Living-Penalty: 14.53
+Time-Steps: 17752	 Episode-Num: 482	 Episode-Reward: -22.6
+Episode-Steps: 36	 Traveled-Distance: 31.96	 Remaining-Distance: 782.84
+Sand-Penalty: -28.25	 Living-Penalty: 5.65
+Time-Steps: 17788	 Episode-Num: 483	 Episode-Reward: -22.6
+Episode-Steps: 36	 Traveled-Distance: 31.86	 Remaining-Distance: 782.87
+Sand-Penalty: -28.25	 Living-Penalty: 5.65
+Time-Steps: 18275	 Episode-Num: 484	 Episode-Reward: -48.499999999999815
+Episode-Steps: 487	 Traveled-Distance: 19.25	 Remaining-Distance: 767.26
+Sand-Penalty: 0.65	 Living-Penalty: -49.15
+Time-Steps: 18347	 Episode-Num: 485	 Episode-Reward: -25.0
+Episode-Steps: 72	 Traveled-Distance: 31.62	 Remaining-Distance: 782.45
+Sand-Penalty: 4.63	 Living-Penalty: -29.63
+Time-Steps: 18380	 Episode-Num: 486	 Episode-Reward: -22.0
+Episode-Steps: 33	 Traveled-Distance: 27.17	 Remaining-Distance: 776.55
+Sand-Penalty: -33.85	 Living-Penalty: 11.85
+Time-Steps: 18417	 Episode-Num: 487	 Episode-Reward: -22.8
+Episode-Steps: 37	 Traveled-Distance: 33.83	 Remaining-Distance: 784.92
+Sand-Penalty: -26.82	 Living-Penalty: 4.02
+Time-Steps: 18449	 Episode-Num: 488	 Episode-Reward: -21.8
+Episode-Steps: 32	 Traveled-Distance: 26.3	 Remaining-Distance: 773.72
+Sand-Penalty: -36.33	 Living-Penalty: 14.53
+Time-Steps: 18480	 Episode-Num: 489	 Episode-Reward: -21.6
+Episode-Steps: 31	 Traveled-Distance: 24.94	 Remaining-Distance: 771.42
+Sand-Penalty: -39.27	 Living-Penalty: 17.67
+Time-Steps: 18511	 Episode-Num: 490	 Episode-Reward: -22.4
+Episode-Steps: 31	 Traveled-Distance: 24.93	 Remaining-Distance: 768.3
+Sand-Penalty: -42.76	 Living-Penalty: 20.36
+Time-Steps: 18541	 Episode-Num: 491	 Episode-Reward: -21.4
+Episode-Steps: 30	 Traveled-Distance: 24.08	 Remaining-Distance: 768.32
+Sand-Penalty: -42.8	 Living-Penalty: 21.4
+Time-Steps: 18573	 Episode-Num: 492	 Episode-Reward: -21.8
+Episode-Steps: 32	 Traveled-Distance: 26.56	 Remaining-Distance: 773.54
+Sand-Penalty: -36.33	 Living-Penalty: 14.53
+Time-Steps: 18606	 Episode-Num: 493	 Episode-Reward: -22.0
+Episode-Steps: 33	 Traveled-Distance: 27.32	 Remaining-Distance: 776.49
+Sand-Penalty: -33.85	 Living-Penalty: 11.85
+Time-Steps: 18636	 Episode-Num: 494	 Episode-Reward: -21.4
+Episode-Steps: 30	 Traveled-Distance: 23.91	 Remaining-Distance: 768.52
+Sand-Penalty: -42.8	 Living-Penalty: 21.4
+Time-Steps: 18665	 Episode-Num: 495	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 23.16	 Remaining-Distance: 765.38
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 18694	 Episode-Num: 496	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 22.92	 Remaining-Distance: 765.76
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 18723	 Episode-Num: 497	 Episode-Reward: -21.2
+Episode-Steps: 29	 Traveled-Distance: 22.95	 Remaining-Distance: 765.6
+Sand-Penalty: -47.11	 Living-Penalty: 25.91
+Time-Steps: 18758	 Episode-Num: 498	 Episode-Reward: -22.4
+Episode-Steps: 35	 Traveled-Distance: 30.4	 Remaining-Distance: 780.77
+Sand-Penalty: -29.87	 Living-Penalty: 7.47
+Time-Steps: 19769	 Episode-Num: 499	 Episode-Reward: -78.5
+Episode-Steps: 1011	 Traveled-Distance: 21.4	 Remaining-Distance: 771.12
+Sand-Penalty: 0.52	 Living-Penalty: -79.02
+Time-Steps: 22270	 Episode-Num: 500	 Episode-Reward: -126.1000000000053
+Episode-Steps: 2501	 Traveled-Distance: 6.78	 Remaining-Distance: 753.0
+Sand-Penalty: 0.0	 Living-Penalty: -126.1
+Time-Steps: 24771	 Episode-Num: 501	 Episode-Reward: -124.6000000000051
+Episode-Steps: 2501	 Traveled-Distance: 6.03	 Remaining-Distance: 753.48
+Sand-Penalty: 0.0	 Living-Penalty: -124.6
+Time-Steps: 27272	 Episode-Num: 502	 Episode-Reward: -125.80000000000521
+Episode-Steps: 2501	 Traveled-Distance: 4.53	 Remaining-Distance: 750.84
+Sand-Penalty: 0.0	 Living-Penalty: -125.8
+Time-Steps: 29773	 Episode-Num: 503	 Episode-Reward: -124.90000000000524
+Episode-Steps: 2501	 Traveled-Distance: 3.68	 Remaining-Distance: 751.69
+Sand-Penalty: 0.0	 Living-Penalty: -124.9
+Time-Steps: 32274	 Episode-Num: 504	 Episode-Reward: -127.60000000000518
+Episode-Steps: 2501	 Traveled-Distance: 4.63	 Remaining-Distance: 751.78
+Sand-Penalty: 0.0	 Living-Penalty: -127.6
+Time-Steps: 34775	 Episode-Num: 505	 Episode-Reward: -129.10000000000522
+Episode-Steps: 2501	 Traveled-Distance: 2.61	 Remaining-Distance: 751.23
+Sand-Penalty: 0.0	 Living-Penalty: -129.1
+Time-Steps: 37276	 Episode-Num: 506	 Episode-Reward: -126.10000000000521
+Episode-Steps: 2501	 Traveled-Distance: 4.11	 Remaining-Distance: 751.35
+Sand-Penalty: 0.0	 Living-Penalty: -126.1
+Time-Steps: 39777	 Episode-Num: 507	 Episode-Reward: -127.90000000000516
+Episode-Steps: 2501	 Traveled-Distance: 4.66	 Remaining-Distance: 751.42
+Sand-Penalty: 0.0	 Living-Penalty: -127.9
+Time-Steps: 42278	 Episode-Num: 508	 Episode-Reward: -128.80000000000547
+Episode-Steps: 2501	 Traveled-Distance: 4.43	 Remaining-Distance: 750.32
+Sand-Penalty: 0.0	 Living-Penalty: -128.8
+Time-Steps: 42914	 Episode-Num: 509	 Episode-Reward: -57.49999999999967
+Episode-Steps: 636	 Traveled-Distance: 16.72	 Remaining-Distance: 761.8
+Sand-Penalty: 0.61	 Living-Penalty: -58.11
+Time-Steps: 43251	 Episode-Num: 510	 Episode-Reward: -45.6999999999999
+Episode-Steps: 337	 Traveled-Distance: 16.07	 Remaining-Distance: 759.18
+Sand-Penalty: 1.08	 Living-Penalty: -46.78
