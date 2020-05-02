@@ -64,19 +64,32 @@ e. Car should spend less time on sand and more time on road to avoid episode ove
 ![all5](images/sand_padded.png)
 
 9) We first fill our replay buffer for 10000 random states, next states, action, rewards, done and then we will train and infer after couple of timetseps. Total Timesteps = 500000
+
 Our algorithm will loop over following steps.
-a) Intialize car at random position
-b) Calculate goal distance to cover, decide velocity
-c) Based on above information Orientation of car is calculated 
-d) This information if feed to car to move and return State
-e) We feed State information and get action from TD3
-f) We add some exploration noise and clippping
-g) Based on action we calculate Next state
-h) We calcuate distance to cover to reach goal based on new information
-i) Based on Car current position on Sand or Road, Negative or Positive Reward offered
-j) Now Based on Car is close to target, close to Borders or walls, how long is on sand - Episode is over or continue along with accumulation of Positive or Negative reward
-k) We adding this new observations to replay buffer
-l) Set Current State = New State and repeat all above steps again to see training and inference
+
+  a) Intialize car at random position
+
+  b) Calculate goal distance to cover, decide velocity
+
+  c) Based on above information Orientation of car is calculated 
+
+  d) This information if feed to car to move and return State
+
+  e) We feed State information and Orientations and get action from TD3
+
+  f) We add some exploration noise and clippping
+
+  g) Based on action we calculate Next state
+
+  h) We calcuate distance to cover to reach goal based on new information
+
+  i) Based on Car current position on Sand or Road, Negative or Positive Reward offered
+
+  j) Now Based on Car is close to target, close to Borders or walls, how long is on sand - Episode is over or continue along with   accumulation of Positive or Negative reward
+
+  k) We adding this new observations to replay buffer
+
+  l) Set Current State = New State and repeat all above steps again to see training and inference
 
 10) This is Video for Part 1 - Random 10000 timesteps to fill replay buffer and Part 2 - Training and Inference Results
 Note- Watch Till End to Know How Car Learned to Self Drive
