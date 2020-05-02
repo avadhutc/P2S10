@@ -16,9 +16,11 @@ https://www.youtube.com/watch?v=2lWoQwJ47mc&feature=youtu.be
 
 Alright! Lets move back to our Self Driving Car using TD3.
 
-Here our State dimension is 80 ( We are going to feed gray scale image of 80x80x1)
+### Lets Consider to feed 80x80x1 grayscale Image to TD3 Network for now
+
+Here our State dimension is 5 ( We are going to feed gray scale image of 80x80x1 along with orientations)
 Action dimension is 1 (Take action to move car according network output orientation)
-Max Action is 1.
+Max Action is 40.
 
 Following Steps are followed to implements this:
 
@@ -43,6 +45,8 @@ Check our Car (What we draw on Sand) marked in red circle. Note- Road- Black Col
 ![all2](images/car_no_sand.png)
 
 5) In above image We may not cover a Car and Roads/ Sand in 80x80x1 area, So  We need crop more area of 120x120x1, then we rotate the image according to car rotation-results 80x80x1 roatated image. Finally to avoid building a network with huge parameters, better We will use Scaled version of that-32x32x1. 
+
+### So Finally we feed 32x32x1 grayscale Image to TD3 Network 
 
 ![all3](images/final_all.png)
 
