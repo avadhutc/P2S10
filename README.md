@@ -42,9 +42,9 @@ Check our Car (What we draw on Sand) marked in red circle. Note- Road- Black Col
                                 
 ![all2](images/car_no_sand.png)
 
-5) In above image We may not cover a Car and Roads/ Sand in 80x80x1 area, So  We need crop more area of 160x160x1, but to avoid building a network with huge parameters, better We will use Scaled version of that. 
+5) In above image We may not cover a Car and Roads/ Sand in 80x80x1 area, So  We need crop more area of 120x120x1, then we rotate the image according to car rotation-results 80x80x1 roatated image. Finally to avoid building a network with huge parameters, better We will use Scaled version of that-32x32x1. 
 
-![all3](images/scaled.PNG)
+![all3](images/final_all.png)
 
 6) Lets now focus on Rewards, Done(Episode Over) and Living Penalty - We are getting information from our Kivy Environment about Position of our Car, Velocity and Orientation. We can use this to build Rewards, Done(Episode Over) and Living Penalty.
 a. Car should be on the Road to get good reward, Otherwise negative reward for being on Sand
