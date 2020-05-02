@@ -74,14 +74,14 @@ j) Now Based on Car is close to target, close to Borders or walls, how long is o
 k) We adding this new observations to replay buffer
 l) Set Current State = New State and repeat all above steps again to see training and inference
 
-10) This is Video for Random 20000 timesteps to fill replay buffer
+10) This is Video for Random 10000 timesteps to fill replay buffer
 
-https://www.youtube.com/watch?v=MLE6H2TOOBg&feature=youtu.be
+https://www.youtube.com/watch?v=oV2DnQ2m6x0
 
 11) This is Video while Training and Inference in middle of training.
 (Note- Still working on this to make it better. Remember goal to roam our car on the roads of Citymap, as the baby elphant roaming inside Jungle)
 
-https://www.youtube.com/watch?v=MQvZ-l8oMs0&feature=youtu.be
+https://www.youtube.com/watch?v=DQhtuPj0ypA
 
 
 
