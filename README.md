@@ -59,7 +59,7 @@ e. Car should spend less time on sand and more time on road to avoid episode ove
 8) We realized that We are missing border pixels to explore, So decided to pad original Sand image and make respective displacement changes in the position of car.
 ![all5](images/sand_padded.png)
 
-9) We first fill our replay buffer for 20000 random states, next states, action, rewards, done and then we will train and infer after couple of timetseps. Total Timesteps = 500000
+9) We first fill our replay buffer for 10000 random states, next states, action, rewards, done and then we will train and infer after couple of timetseps. Total Timesteps = 500000
 Our algorithm will loop over following steps.
 a) Intialize car at random position
 b) Calculate goal distance to cover, decide velocity
@@ -74,14 +74,9 @@ j) Now Based on Car is close to target, close to Borders or walls, how long is o
 k) We adding this new observations to replay buffer
 l) Set Current State = New State and repeat all above steps again to see training and inference
 
-10) This is Video for Random 10000 timesteps to fill replay buffer
+10) This is Video for Part 1 - Random 10000 timesteps to fill replay buffer and Part 2 - Training and Inference Results
+Note- Watch Till End to Know How Car Learned to Self Drive
 
-https://www.youtube.com/watch?v=oV2DnQ2m6x0
+https://www.youtube.com/watch?v=9KthdcuLEYk
 
-11) This is Video while Training and Inference in middle of training.
 (Note- Still working on this to make it better. Remember goal to roam our car on the roads of Citymap, as the baby elphant roaming inside Jungle)
-
-https://www.youtube.com/watch?v=DQhtuPj0ypA
-
-
-
